@@ -1,0 +1,9 @@
+measure,value
+pairs with unchanged last_reported where the counts changed (%),30.3
+count changes that happen under an unchanged last_reported (%),90.5
+"rows repeating an earlier (station_id, last_reported) pair (%)",91.2
+"last_reported renewals per station per hour, night (00-05 UTC)",1.05
+"last_reported renewals per station per hour, day (06-19 UTC)",1.12
+"count changes per station per hour, night (00-05 UTC)",0.6
+"count changes per station per hour, day (06-19 UTC)",5.05
+median age of last_reported when read (min),32.4

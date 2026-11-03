@@ -1,0 +1,11 @@
+side,sampling,rows_kept,episodes,episodes_vs_5min_%,5min_episodes_seen_at_all_%,share_of_rows_failing_%
+no_rent,every 5 min (all captures),435910,2630,100.0,100.0,6.67
+no_rent,every 15 min,145303,1376,52.3,92.6,6.65
+no_rent,every 30 min,72651,789,30.0,71.4,6.6
+no_rent,every 60 min,36325,416,15.8,48.7,6.57
+no_rent,"one row per (station, last_reported)",38449,436,16.6,52.4,5.82
+no_return,every 5 min (all captures),435910,1667,100.0,100.0,4.74
+no_return,every 15 min,145303,873,52.4,92.6,4.73
+no_return,every 30 min,72651,523,31.4,73.2,4.77
+no_return,every 60 min,36325,294,17.6,49.4,4.76
+no_return,"one row per (station, last_reported)",38449,295,17.7,50.5,3.98

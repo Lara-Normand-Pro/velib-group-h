@@ -1,0 +1,4 @@
+threshold_m,with_neighbour,isolated,share_with_neighbour_%,share_isolated_%,mean_neighbours
+200,592,927,39.0,61.0,0.59
+300,1033,486,68.0,32.0,1.87
+500,1344,175,88.5,11.5,6.53

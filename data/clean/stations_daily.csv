@@ -1,0 +1,1519 @@
+date,station_id,name,capacity,captures,in_station_list,temporary,event_station,share_out_of_service,share_empty,share_full,share_silent,share_frozen,share_capacity_conflict
+2026-09-21,6245,Ventadour - Opéra,27.0,288,True,False,False,0.0,0.0,0.1146,0.0,0.0,0.0
+2026-09-21,6293,Mairie du 2ème,28.0,288,True,False,False,0.0,0.1076,0.1076,0.0,0.0,0.0
+2026-09-21,6294,Marché aux fleurs,23.0,288,True,False,False,0.0,0.184,0.0486,0.0,0.0,0.0
+2026-09-21,6295,Pontoise - La Tournelle,23.0,288,True,False,False,0.0,0.0,0.1319,0.0,0.0,0.0
+2026-09-21,6296,Institut de France,34.0,288,True,False,False,0.0,0.0,0.1667,0.0,0.0,0.0
+2026-09-21,6297,Victor Massé - Jean-Baptiste Pigalle,18.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,6298,Gare du Nord - Saint-Vincent de Paul,24.0,288,True,False,False,0.0,0.3715,0.0,0.0,0.0,0.0
+2026-09-21,6352,Saint-Bon - Rivoli,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,6354,Gouthière - Poterne des Peupliers,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,6385,Petit - Manin,22.0,288,True,False,False,0.0,0.1424,0.0,0.0,0.0,0.0
+2026-09-21,6399,Hautpoul - Jean Jaurès,32.0,288,True,False,False,0.0,0.1354,0.0,0.0,0.0,0.0
+2026-09-21,6497,Duhamel - André Gide,20.0,288,True,False,False,0.0,0.1597,0.0,0.0,0.0,0.0
+2026-09-21,6512,Porte de Ménilmontant,15.0,288,True,False,False,0.0,0.2708,0.0,0.0,0.0,0.0
+2026-09-21,6515,Rougemont - Poissonnière,44.0,288,True,False,False,0.0,0.0,0.0243,0.0,0.0,0.0
+2026-09-21,7234,Colonel Pierre Avia,29.0,288,True,False,False,0.0,0.0,0.0625,0.0,0.0,0.0
+2026-09-21,7247,Charonne - Pierre Bayle,23.0,288,True,False,False,0.0,0.1076,0.0,0.0,0.0,0.0
+2026-09-21,7254,Gay Lussac - Saint-Jacques,42.0,288,True,False,False,0.0,0.0938,0.1076,0.0,0.0,0.0
+2026-09-21,7261,Athènes - Clichy,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,7295,Chevreuse - Montparnasse,15.0,288,True,False,False,0.0,0.0799,0.0,0.0,0.0,0.0
+2026-09-21,7304,Bassano -  Iéna,15.0,288,True,False,False,0.0,0.0972,0.1597,0.0,0.0,0.0
+2026-09-21,7402,Roquette - Auguste Laurent,16.0,288,True,False,False,0.0,0.0174,0.1389,0.0,0.0,0.0
+2026-09-21,29327,Stade Auguste Delaune,21.0,288,True,False,False,0.0,0.0,0.4931,0.0,0.0,0.0
+2026-09-21,30550,Mairie du 9ème,24.0,288,True,False,False,0.0,0.0694,0.1181,0.0,0.0,0.0
+2026-09-21,30730,Place de la Nation - Charonne,36.0,288,True,False,False,0.0,0.25,0.0,0.0,0.0,0.0
+2026-09-21,36003,Pont de Lodi - Dauphine,23.0,288,True,False,False,0.0,0.0,0.0069,0.0,0.0,0.0
+2026-09-21,36151,Favart - Italiens,17.0,288,True,False,False,0.0,0.1875,0.1667,0.0,0.0,0.0
+2026-09-21,36255,Toudouze - Clauzel,21.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,36298,Jean-Baptiste Pigalle - La Bruyere,17.0,288,True,False,False,0.0,0.0868,0.0,0.0,0.0,0.0
+2026-09-21,36391,Godot de Mauroy - Madeleine,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.1354
+2026-09-21,36473,Cadet - La Fayette,19.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,37420,Hauteville - Bonne Nouvelle,17.0,288,True,False,False,0.0,0.0,0.0694,0.0,0.0,0.0
+2026-09-21,37521,Petites Ecuries - Faubourg Poissonnière,17.0,288,True,False,False,0.0,0.0139,0.0833,0.0,0.0,0.0
+2026-09-21,37791,Richard Lenoir - Jean-Pierre Timbaud,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,37995,Dom-Pérignon - Gravelle,50.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,38060,Gare Montparnasse - Arrivée,43.0,288,True,False,False,0.0,0.1771,0.0,0.0,0.0,0.0
+2026-09-21,38192,La Motte-Picquet - Grenelle,34.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,38280,Saint-Didier - Raymond Poincaré,17.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,38327,Victor Hugo - La Pompe,41.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,38407,Flandrin - Longchamp,42.0,288,True,False,False,0.0,0.0,0.0069,0.0,0.0,0.0
+2026-09-21,38522,Douai - Pierre Fontaine,25.0,288,True,False,False,0.0,0.1875,0.0,0.0,0.0,0.0
+2026-09-21,52329,Chernoviz - Raynouard,37.0,288,True,False,False,0.0,0.0174,0.0,0.0,0.0,0.0
+2026-09-21,52393,Grands Moulins de Pantin,50.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,52453,Le Vau - Maurice Bertaux,25.0,288,True,False,False,0.0,0.2326,0.0,0.0,0.0,0.0
+2026-09-21,52456,Pré Saint-Gervais - Lilas,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,52474,Belleville -  Pré Saint-Gervais,35.0,288,True,False,False,0.0,0.2465,0.0,0.0,0.0,0.0
+2026-09-21,52518,Louis Lumière.,22.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,63279,Siam - La Pompe,16.0,288,True,False,False,0.0,0.059,0.0,0.0,0.0,0.0
+2026-09-21,63297,Eglise d'Auteuil,21.0,288,True,False,False,0.0,0.0417,0.0764,0.0,0.0,0.0
+2026-09-21,77773,Gare de Reuilly - Picpus,28.0,288,True,False,False,0.0,0.0347,0.0,0.0,0.0,0.0
+2026-09-21,10968855,Colonel Monteil - Brune,19.0,288,True,False,False,0.0,0.0833,0.0,0.0,0.0,0.0
+2026-09-21,11375742,Arsonval - Falguière,25.0,288,True,False,False,0.0,0.2222,0.0,0.0,0.0,0.0
+2026-09-21,11580442,Geoffroy-Saint-Hilaire - Saint-Marcel,17.0,288,True,False,False,0.0,0.0,0.1736,0.0,0.0,0.0
+2026-09-21,13105968,Le Brix et Mesmin - Jourdan,21.0,288,True,False,False,0.0,0.0451,0.0,0.0,0.0,0.0
+2026-09-21,13191324,Assas - Luxembourg,33.0,288,True,False,False,0.0,0.0764,0.0799,0.0,0.0,0.0
+2026-09-21,13242682,Alexander Fleming - Belvédère,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,13248144,Volontaires - Vaugirard,34.0,288,True,False,False,0.0,0.1319,0.0312,0.0,0.0,0.0
+2026-09-21,13283986,Keller - La Roquette,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,13356269,Assas - Rennes,32.0,288,True,False,False,1.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,13372702,Saint-Fargeau - Mortier,31.0,288,True,False,False,0.0,0.2604,0.0,0.0,0.0,0.0
+2026-09-21,13497763,Ouest - Château ,41.0,288,True,False,False,0.0,0.0868,0.0,0.0,0.0,0.0
+2026-09-21,13718041,Square Simon Bolivar,24.0,288,True,False,False,0.0,0.2882,0.0,0.0,0.0,0.0
+2026-09-21,13912564,Bruant - Vincent Auriol,25.0,288,True,False,False,0.0,0.0,0.0278,0.0,0.0,0.0
+2026-09-21,15153595,Nationale - Vincent Auriol,33.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,15163771,George Sand - Jean de La Fontaine,29.0,288,True,False,False,0.0,0.0,0.2465,0.0,0.0,0.0
+2026-09-21,15212034,Gérando - Rochechouart,21.0,288,True,False,False,0.0,0.2083,0.0,0.0,0.0,0.0
+2026-09-21,15290700,Aboukir - Alexandrie,21.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,15291968,Place de Passy,15.0,288,True,False,False,0.0,0.1389,0.0,0.0,0.0,0.0
+2026-09-21,15298647,Temple - Jean-Pierre Timbaud,36.0,288,True,False,False,0.0347,0.2014,0.0,0.0,0.0,0.0
+2026-09-21,15299574,Charles Delescluze,49.0,288,True,False,False,0.0,0.0451,0.0,0.0,0.0,0.0
+2026-09-21,15308712,Jules Vallès - Charonne,23.0,288,True,False,False,0.0,0.0,0.1146,0.0,0.0,0.0
+2026-09-21,15308782,Sommerard - Saint-Jacques,34.0,288,True,False,False,0.0,0.1424,0.25,0.0,0.0,0.0
+2026-09-21,15309045,Marché Saint-Quentin,15.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,15309674,Square Montholon,21.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,15310509,Choron - Martyrs,29.0,288,True,False,False,0.0,0.0382,0.0,0.0,0.0,0.0
+2026-09-21,15377776,Paul Valery - Victor Hugo,23.0,288,True,False,False,0.0,0.1562,0.0,0.0,0.0,0.0
+2026-09-21,15383032,Place du Canada,58.0,288,True,False,False,1.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,15387809,Mozart - Jasmin,62.0,288,True,False,False,0.0,0.1042,0.0,0.0,0.0,0.0
+2026-09-21,15397468,Maison de Radio - France,47.0,288,True,False,False,0.0,0.0,0.0278,0.0,0.0,0.0
+2026-09-21,15401095,Versailles - Claude Terrasse,46.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,15409531,Méchain - Faubourg Saint-Jacques,16.0,288,True,False,False,0.0,0.0417,0.0,0.0,0.0,0.0
+2026-09-21,15411223,Dareau - Broussais,24.0,288,True,False,False,0.0,0.1979,0.0035,0.0,0.0,0.0
+2026-09-21,15412563,Square Desnouettes,22.0,288,True,False,False,0.0,0.0,0.1562,0.0,0.0,0.0
+2026-09-21,15433394,Custine - Ramey,41.0,288,True,False,False,0.0,0.1458,0.0,0.0,0.0,0.0
+2026-09-21,15461933,Parc Monceau,18.0,288,True,False,False,0.0,0.1042,0.0,0.0,0.0,0.0
+2026-09-21,15462236,Galilée - Kléber,32.0,288,True,False,False,0.0,0.0,0.1319,0.0,0.0,0.0
+2026-09-21,15462861,Crevaux - Bugeaud,31.0,288,True,False,False,0.0,0.0,0.0069,0.0,0.0,0.0
+2026-09-21,15463487,Pergolèse - Marbeau,27.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,26958435,Square des Saint-Simoniens,25.0,288,True,False,False,0.0,0.3403,0.0,0.0,0.0,0.0
+2026-09-21,27033125,Pierre Ginier - Clichy,16.0,288,True,False,False,0.0,0.0,0.0104,0.0,0.0,0.0
+2026-09-21,27064639,Vaugirard - Pasteur,21.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27071684,Porte de Vincennes,33.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,27206194,Saint-Jacques - Val de Grâce,19.0,288,True,False,False,0.0,0.059,0.0972,0.0,0.0,0.0
+2026-09-21,27246227,Edouard Pailleron - Simon Bolivar ,24.0,288,True,False,False,0.0,0.0799,0.0,0.0,0.0,0.0
+2026-09-21,27269170,Quai aux Fleurs - Pont Saint-Louis,21.0,288,True,False,False,0.0,0.0,0.059,0.0,0.0,0.0
+2026-09-21,27278603,Porte de la Villette,27.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27296946,Square Claude Bernard,30.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,27313492,Petites Ecuries - Faubourg Saint-Denis,28.0,288,True,False,False,0.0,0.0278,0.0174,0.0,0.0,0.0
+2026-09-21,27359295,Benoît Frachon - République,30.0,288,True,False,False,0.0,0.0,0.0174,0.0,0.0,0.0
+2026-09-21,27362896,Beffroy,26.0,288,True,False,False,0.0,0.0417,0.0312,0.0,0.0,0.0
+2026-09-21,27362949,Louis Blanc - Jemmapes,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27363029,Charonne - Philippe-Auguste,32.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,27363058,Suffren - La Motte-Piquet,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27363103,Porte d'Auteuil,33.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,27363137,Hameau Fleuri - Marché,22.0,288,True,False,False,0.0,0.0,0.1007,0.0,0.0,0.0
+2026-09-21,27363156,Général De Gaulle - Vivien,22.0,288,True,False,False,0.0,0.0903,0.0,0.0,0.0,0.0
+2026-09-21,27363162,Ranelagh - Mozart,23.0,288,True,False,False,0.0,0.0938,0.0,0.0,0.0,0.0
+2026-09-21,27363205,Porte de la Plaine,35.0,288,True,False,False,0.0,0.2326,0.0,0.0,0.0,0.0
+2026-09-21,27363206,Riquet - Marx Dormoy,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27363256,Thérèse - Opéra,25.0,288,True,False,False,0.0,0.0,0.0972,0.0,0.0,0.0
+2026-09-21,27363277,Place Saint-Ferdinand,38.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27363323,Laffitte - Italiens,33.0,288,True,False,False,0.0,0.2361,0.0764,0.0,0.0,0.0
+2026-09-21,27363337,Bréguet - Sabin,33.0,288,True,False,False,0.0,0.0,0.0347,0.0,0.0,0.0
+2026-09-21,27363362,Seine - Flandre,19.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27363389,Bercy - Traversiére,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27363397,Jean Bologne - Passy,19.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,27363489,Claude Decaen - Cannebière,45.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,27363504,Jacquier - Didot,30.0,288,True,False,False,0.0,0.2292,0.0,0.0,0.0,0.0
+2026-09-21,27363558,Wurtz - Tolbiac,28.0,288,True,False,False,0.0,0.0625,0.0,0.0,0.0,0.0
+2026-09-21,27364642,Maine - Liancourt,27.0,288,True,False,False,0.0,0.2257,0.0,0.0,0.0,0.0
+2026-09-21,27364743,Marc Sangnier - Porte de Vanves,21.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,27369223,Maine - Antoine Bourdelle,17.0,288,True,False,False,0.0,0.4444,0.0,0.0,0.0,0.0
+2026-09-21,27399547,Dominique Pado - Croix Nivert,22.0,288,True,False,False,0.0,0.0,0.125,0.0,0.0,0.0
+2026-09-21,27414358,Saint-Honoré - 29 juillet,20.0,288,True,False,False,0.0,0.0521,0.0,0.0,0.0,0.0
+2026-09-21,27414512,Caire - Dussoubs,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27414527,Danielle Casanova - Opéra,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27414544,Place Monge,21.0,288,True,False,False,0.0,0.0208,0.0139,0.0,0.0,0.0
+2026-09-21,27414578,Notre-Dame-des-Champs - Stanislas,19.0,288,True,False,False,0.0,0.0,0.0069,0.0,0.0,0.0
+2026-09-21,27414601,Saint-François-Xavier,42.0,288,True,False,False,0.0,0.0,0.0,0.1944,0.0,0.0
+2026-09-21,27414713,Landy - Heurtault,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,1.0
+2026-09-21,27414841,Square d'Anvers,33.0,288,True,False,False,0.0,0.2292,0.0,0.0,0.0,0.0
+2026-09-21,27414902,Louis Blanc - La Chapelle,21.0,288,True,False,False,0.0,0.1215,0.0,0.0,0.0,0.0
+2026-09-21,27414924,Sambre et Meuse - Villette,25.0,288,True,False,False,0.0,0.059,0.0,0.0,0.0,0.0
+2026-09-21,27414932,Saint-Maur - République,50.0,288,True,False,False,0.0,0.0243,0.0,0.0,0.0,0.0
+2026-09-21,27414937,Saint-Mandé - Docteur Arnold Netter,53.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,27414945,Montgallet - Charenton,16.0,288,True,False,False,0.0,0.1146,0.1771,0.0,0.0,0.0
+2026-09-21,27415004,Général Michel Bizot - Claude Decaen,50.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27415012,Bercy.,66.0,288,True,False,False,0.0,0.1597,0.0,0.0,0.0,0.0
+2026-09-21,27415083,Place d'Italie - Soeur Rosalie,52.0,288,True,False,False,0.0,0.2569,0.0,0.0,0.0,0.0
+2026-09-21,27415128,Ivry - Baudricourt,20.0,288,True,False,False,0.0,0.2083,0.0,0.0,0.0,0.0
+2026-09-21,27415150,Bobillot - Paulin Mery,23.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,27415169,Nationale - Marcel Duchamp,23.0,288,True,False,False,0.0,0.0243,0.0,0.0,0.0,0.0
+2026-09-21,27415179,Sarrette - Général Leclerc,22.0,288,True,False,False,0.0,0.1181,0.0,0.0,0.0,0.0
+2026-09-21,27415194,Gergovie - Alésia,54.0,288,True,False,False,0.0,0.1285,0.0,0.0,0.0,0.0
+2026-09-21,27415215,Romain Rolland,25.0,288,True,False,False,0.0,0.0174,0.0,0.0,0.0,0.0
+2026-09-21,27415224,Bir Hakeim,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27415246,Javel - André Citroën,45.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27415256,Sahel - Général Michel Bizot,47.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,27415285,Place de Finlande,25.0,288,True,False,False,0.0,0.0,0.1389,0.0,0.0,0.0
+2026-09-21,27415297,Square Raymond Souplex,52.0,288,True,False,False,0.0,0.1632,0.0,0.0,0.0,0.0
+2026-09-21,27415302,Michel-Ange - Parent de Rosan,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27415327,Courcelles - Pierre Demours,26.0,288,True,False,False,0.0,0.0,0.0278,0.0,0.0,0.0
+2026-09-21,27415333,Crimée - Ourcq,56.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27415360,Reynaldo Hahn - Lagny,19.0,288,True,False,False,0.0,0.1875,0.0,0.0,0.0,0.0
+2026-09-21,27415371,Charonne - Alexandre Dumas,35.0,288,True,False,False,0.0,0.2535,0.0,0.0,0.0,0.0
+2026-09-21,27415389,Gambetta - Père Lachaise,29.0,288,True,False,False,0.0,0.1632,0.0,0.0,0.0,0.0
+2026-09-21,27415411,Frères Flavien - Porte des Lilas,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27415444,Louis Ganne - Davout,30.0,288,True,False,False,0.0,0.0208,0.0,0.0,0.0,0.0
+2026-09-21,27415466,Jourdain - Place des Grandes Rigoles,22.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27415469,Orteaux - Mouraud,24.0,288,True,False,False,0.0,0.2604,0.0,0.0,0.0,0.0
+2026-09-21,27415500,Point du Jour - Jean Jaurès,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27415512,Parc Roger Salengro,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27415547,Square Etienne Jarousse,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27415665,Jean Jaurès - Salvador Allende,43.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,27415736,Jean Jaurès - Presles,31.0,288,True,False,False,0.0,0.0,0.0278,0.0,0.0,0.0
+2026-09-21,28233012,Marceau - Président Wilson,32.0,288,True,False,False,0.0,0.0,0.2569,0.0,0.0,0.0
+2026-09-21,30179848,Saint-Blaise - Mouraud,27.0,288,True,False,False,0.0,0.1493,0.0,0.0,0.0,0.0
+2026-09-21,30641281,Place de la Montagne du Goulet,21.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,34235349,Jean Calvin - Tournefort,28.0,288,True,False,False,0.0,0.0,0.0903,0.0,0.0,0.0
+2026-09-21,34300292,Argenson - Château,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,34742973,Place Balard,22.0,288,True,False,False,0.0,0.0035,0.0,0.0,0.0,0.7396
+2026-09-21,34836174,Place Charles Digeon,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,35080917,Euryale Dehaynin - Loire,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,35089539,Manin - Crimée,23.0,288,True,False,False,0.0,0.0694,0.0,0.0,0.0,0.0
+2026-09-21,35101194,Place de l'Insurrection d'Août 1944 ,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,35106544,René Coty - Parc Montsouris,55.0,288,True,False,False,0.0,0.0208,0.0,0.0,0.0,0.0
+2026-09-21,35137730,Hôpital Pitié Salpêtrière,50.0,288,True,False,False,0.0,0.0208,0.0,0.0,0.0,0.0
+2026-09-21,35147530,Pierre Levée - Fontaine Timbaud,23.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,35149611,Liard - Amiral Mouchez,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,35196898,Gare d'Austerlitz - Quai Saint-Bernard,27.0,288,True,False,False,0.0,0.1076,0.0,0.0,0.0,0.0
+2026-09-21,35263507,Port Royal - Hôpital Cochin,23.0,288,True,False,False,0.0,0.0243,0.0,0.0,0.0,0.0
+2026-09-21,35317080,Emile Reynaud - Porte de la Villette ,22.0,288,True,False,False,0.0,0.0243,0.2569,0.0,0.0,0.0
+2026-09-21,35380305,Le Goff - Gay-Lussac,35.0,288,True,False,False,0.0,0.0694,0.0486,0.0,0.0,0.0
+2026-09-21,35447568,Guy Môquet - Etienne Dolet,23.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,35471668,Flandre - Ourcq,30.0,288,True,False,False,0.0,0.1042,0.0,0.0,0.0,0.0
+2026-09-21,35472299,Pyrénées - Plaine,12.0,288,True,False,False,0.0,0.1354,0.0,0.0,0.0,0.0
+2026-09-21,35600927,Mairie du 16ème,35.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,35642049,Jemmapes - Ecluses Saint-Martin,15.0,288,True,False,False,0.0,0.0,0.0208,0.0,0.0,0.0
+2026-09-21,35816213,Passy - Place du Costa Rica,33.0,288,True,False,False,0.0,0.0417,0.0069,0.0,0.0,0.0
+2026-09-21,37504995,Jean Monnet - Iles,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,37815204,Mairie du 12ème,30.0,288,True,False,False,0.0,0.0729,0.2465,0.0,0.0,0.0
+2026-09-21,37815993,Mutualité,37.0,288,True,False,False,0.0,0.0,0.2049,0.0,0.0,0.0
+2026-09-21,37848502,Pierre Brossolette - 12 Février 1934,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,37874517,Saint-Sulpice,21.0,288,True,False,False,0.0,0.0069,0.1667,0.0,0.0,0.0
+2026-09-21,37903195,Transvaal - Charles de Gaulle ,27.0,288,True,False,False,0.0,0.0,0.2847,0.0,0.0,0.0
+2026-09-21,37921892,Vinaigriers - Magenta,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,37936869,Assas - Vaugirard,35.0,288,True,False,False,0.0,0.0104,0.0,0.0,0.0,0.0
+2026-09-21,37952191,Jean Jaurès - Reine,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,38263504,Place Jacques Madaule,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,38319086,Pierre Demours - Laugier,37.0,288,True,False,False,0.0,0.066,0.0,0.0,0.0,0.0
+2026-09-21,39149651,Richard Lenoir - Place de la Bastille,53.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,39151458,Goutte d'or - Barbès,20.0,288,True,False,False,0.0,0.0208,0.0451,0.0,0.0,0.0
+2026-09-21,39169029,Sorbier - Ménilmontant,24.0,288,True,False,False,0.0,0.2535,0.0,0.0,0.0,0.0
+2026-09-21,39169877,Saint-Placide - Cherche Midi,66.0,288,True,False,False,0.0,0.0,0.0521,0.0,0.0,0.0
+2026-09-21,39202840,Rochechouart - Martyrs,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,39217683,Alfred Roll - Berthier,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,39254792,Mairie du 11ème,51.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,39256416,Pajol - Riquet ,47.0,288,True,False,False,0.0,0.0938,0.0,0.0,0.0,0.0
+2026-09-21,39296638,Berri - Haussmann,49.0,288,True,False,False,0.0,0.0764,0.2118,0.0,0.0,0.0
+2026-09-21,39311270,Pasteur - Cotentin,33.0,288,True,False,False,0.0,0.1597,0.0,0.0,0.0,0.0
+2026-09-21,39535340,Charles Frérot - Albert Guilpin,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,39536951,Vistule - Choisy,33.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,39565873,Jouffroy d'Abbans - Malesherbes,27.0,288,True,False,False,0.0,0.0625,0.0035,0.0,0.0,0.0
+2026-09-21,39599631,François Ponsard - La Muette,23.0,288,True,False,False,0.0,0.1632,0.0,0.0,0.0,0.0
+2026-09-21,39626277,Lacuée - Lyon,16.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,39776330,Buzenval - Vignoles,17.0,288,True,False,False,0.0,0.1493,0.0,0.0,0.0,0.0
+2026-09-21,39799329,Faubourg Montmartre - La Fayette,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,39878420,Pyrénées - Dagorno,20.0,288,True,False,False,0.0,0.1111,0.0,0.0,0.0,0.0
+2026-09-21,39882420,Championnet.,22.0,288,True,False,False,0.0,0.1285,0.0,0.0,0.0,0.0
+2026-09-21,41219552,Saint-Benoît - Jacob,23.0,288,True,False,False,0.0,0.1806,0.1354,0.0,0.0,0.0
+2026-09-21,41464928,Sèvres - Lecourbe,62.0,288,True,False,False,0.0,0.0104,0.0,0.0,0.0,0.0
+2026-09-21,41498023,Oberkampf - République,24.0,288,True,False,False,0.0,0.0208,0.0,0.0,0.0,0.0
+2026-09-21,41523981,Mairie du 15ème,46.0,288,True,False,False,0.0,0.0174,0.0,0.0,0.0,0.0
+2026-09-21,41566122,Vasco de Gama,54.0,288,True,False,False,0.0,0.0,0.1076,0.0,0.0,0.0
+2026-09-21,41610121,Censier - Jardin des Plantes,28.0,288,True,False,False,0.0,0.0,0.2014,0.0,0.0,0.0
+2026-09-21,42275164,Reuilly - Daumesnil,36.0,288,True,False,False,0.0,0.0035,0.0,0.0,0.0,0.0
+2026-09-21,42341698,Cléry - Montmartre,58.0,288,True,False,False,0.0,0.0833,0.0,0.0,0.0,0.0
+2026-09-21,42499285,Petit Palais,46.0,288,True,False,False,1.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,42517412,Gambetta - Saint Fargeau,24.0,288,True,False,False,0.0,0.1354,0.0,0.0,0.0,0.0
+2026-09-21,42541542,Gare Montparnasse - Edgar Quinet,33.0,288,True,False,False,0.0,0.375,0.0,0.0,0.0,0.0
+2026-09-21,42566291,Miromesnil - La Boétie,35.0,288,True,False,False,0.0,0.0,0.2118,0.0,0.0,0.0
+2026-09-21,42588096,Bobillot - Moulin des Prés,28.0,288,True,False,False,0.0,0.0174,0.0,0.0,0.0,0.0
+2026-09-21,42603855,Liège - Moscou,17.0,288,True,False,False,0.0,0.0729,0.0,0.0,0.0,0.0
+2026-09-21,42720305,Monceau - Malesherbes,38.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,42743053,Stephenson - Doudeauville,36.0,288,True,False,False,0.0,0.1389,0.0,0.0,0.0,0.0
+2026-09-21,42907187,Richard Lenoir - Voltaire,25.0,288,True,False,False,0.0,0.0,0.0174,0.0,0.0,0.0
+2026-09-21,42908639,Lallier - Trudaine ,29.0,288,True,False,False,0.0,0.0938,0.0,0.0,0.0,0.0
+2026-09-21,42950428,Place du Docteur Yersin,50.0,288,True,False,False,0.0,0.1319,0.0,0.0,0.0,0.0
+2026-09-21,43155320,Porte d'Orléans,48.0,288,True,False,False,0.0,0.0903,0.0,0.0,0.0,0.0
+2026-09-21,43165673,Belfort - Voltaire,53.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,43195240,Silly - Galliéni,25.0,288,True,False,False,0.0,0.0,0.1562,0.0,0.0,0.0
+2026-09-21,43219958,Odessa - Départ,39.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,43247025,Jardins d'Eole,20.0,288,True,False,False,0.0,0.0,0.0486,0.0,0.0,0.0
+2026-09-21,43247738,Ruisseau - Ordener,53.0,288,True,False,False,0.0,0.1597,0.0,0.0,0.0,0.0
+2026-09-21,43255030,Pereire - Ternes,48.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,48800374,Place de l'Hôtel de Ville,14.0,288,True,False,False,0.0,0.0,0.059,0.0,0.0,0.0
+2026-09-21,49039283,Carpeaux - Place Jacques Froment,19.0,288,True,False,False,0.0,0.0556,0.2014,0.0,0.0,0.0
+2026-09-21,49085250,Departement - Pajol,19.0,288,True,False,False,0.0,0.0868,0.0,0.0,0.0,0.0
+2026-09-21,49094984,Herschel - Observatoire,56.0,288,True,False,False,0.0,0.0069,0.0729,0.0,0.0,0.0
+2026-09-21,49117995,Condorcet - Turgot,20.0,288,True,False,False,0.0,0.1389,0.0,0.0,0.0,0.0
+2026-09-21,49341735,Centquatre,42.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,49368561,Jules Ferry - Faubourg du Temple Paris,58.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,49403716,Commandant Rivière,42.0,288,True,False,False,0.0,0.0035,0.1944,0.0,0.0,0.0
+2026-09-21,49423507,Pau Casals - Neuve Tolbiac,78.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,49424560,Saint-Mande - Picpus,35.0,288,True,False,False,0.0,0.0764,0.0,0.0,0.0,0.0
+2026-09-21,49474389,Artois - Berri,37.0,288,True,False,False,0.0,0.2014,0.0,0.0,0.0,0.0
+2026-09-21,49498164,Mairie du 8ème,28.0,288,True,False,False,0.0,0.059,0.0556,0.0,0.0,0.0
+2026-09-21,49791363,Balzac - Champs Elysées,30.0,288,True,False,False,1.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,49807107,Flandrin - Henri Martin,18.0,288,True,False,False,0.0,0.0799,0.0,0.0,0.0,0.0
+2026-09-21,49829553,Legendre - Nollet,30.0,288,True,False,False,0.0,0.0,0.1146,0.0,0.0,0.0
+2026-09-21,49859500,Charenton - Diderot,18.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,50156117,Legendre - Dulong,23.0,288,True,False,False,0.0,0.1181,0.0,0.0,0.0,0.0
+2026-09-21,50191171,Thionville - Ourcq,24.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,53999465,Place du Palais Royal,67.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000465,Etienne Marcel - Montorgueil,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000466,Uzès - Montmartre,29.0,288,True,False,False,0.0,0.0799,0.066,0.0,0.0,0.0
+2026-09-21,54000536,Saint-Fiacre - Poissonière,35.0,288,True,False,False,0.0,0.0451,0.0,0.0,0.0,0.0
+2026-09-21,54000537,Saint-Gilles - Turenne,18.0,288,True,False,False,0.0,0.0174,0.0,0.0,0.0,0.0
+2026-09-21,54000538,Mairie du 3ème,32.0,288,True,False,False,1.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000539,Hôtel de Ville - Pont-Marie,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000541,Vieille du Temple - Francs Bourgeois,29.0,288,True,False,False,0.0,0.0174,0.0,0.0,0.0,0.0
+2026-09-21,54000542,Blancs-Manteaux - Archives,29.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,54000543,Cloître Saint-Merri - Renard,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000544,Jussieu - Fossés Saint-Bernard,39.0,288,True,False,False,0.0,0.0,0.0035,0.0,0.0,0.0
+2026-09-21,54000545,Parc André Citroën,65.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000546,Sénat - Condé,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000547,Quatre Vents - Carrefour de l'Odéon,37.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000548,Quai Voltaire,32.0,288,True,False,False,0.0,0.0104,0.1667,0.0,0.0,0.0
+2026-09-21,54000549,Villersexel - Saint-Germain,16.0,288,True,False,False,0.0,0.0833,0.25,0.0,0.0,0.0
+2026-09-21,54000550,Rapp - Place du Général Gouraud,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000551,Galilée - Vernet,47.0,288,True,False,False,1.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000552,Rome - Provence,30.0,288,True,False,False,0.0,0.0,0.0417,0.0,0.0,0.0
+2026-09-21,54000553,Marignan - Champs-Elysées,40.0,288,True,False,False,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,54000554,Gare Saint-Lazare - Stockholm,32.0,288,True,False,False,0.0,0.1111,0.0,0.0,0.0,0.0
+2026-09-21,54000555,Jean Mermoz - Champs-Elysées,49.0,288,True,False,False,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,54000559,Jouffroy d'Abbans - Wagram,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000560,Geoffroy - Marie,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000561,Lamartine - Faubourg Montmartre,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000562,Square Alban Satragne,30.0,288,True,False,False,0.0,0.0972,0.0,0.0,0.0,0.0
+2026-09-21,54000564,Paradis - Hauteville,31.0,288,True,False,False,0.0,0.0,0.0312,0.0,0.0,0.0
+2026-09-21,54000565,Granges aux Belles,27.0,288,True,False,False,0.0,0.1007,0.0,0.0,0.0,0.0
+2026-09-21,54000567,Montreuil - Voltaire,34.0,288,True,False,False,0.0,0.0764,0.0,0.0,0.0,0.0
+2026-09-21,54000568,Philippe-Auguste,48.0,288,True,False,False,0.0,0.1597,0.0,0.0,0.0,0.0
+2026-09-21,54000569,Saint-Ambroise - Parmentier,38.0,288,True,False,False,0.0,0.0417,0.0,0.0,0.0,0.0
+2026-09-21,54000570,Place de la Nation - Picpus,36.0,288,True,False,False,0.0,0.1076,0.0,0.0,0.0,0.0
+2026-09-21,54000571,Dugommier,53.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000572,Diderot - Pierre Bourdan,21.0,288,True,False,False,0.0,0.0972,0.0,0.0,0.0,0.0
+2026-09-21,54000573,Cardinal Lavigerie,46.0,288,True,False,False,0.0,0.0,0.125,0.0,0.0,0.0
+2026-09-21,54000577,Arago - Glacière,27.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000578,Bobillot - Tolbiac,33.0,288,True,False,False,0.0,0.0312,0.0972,0.0,0.0,0.0
+2026-09-21,54000581,Croulebarde - Corvisart,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000582,Edgar Quinet - Gaité,27.0,288,True,False,False,0.0,0.3333,0.0,0.0,0.0,0.0
+2026-09-21,54000583,Tombe Issoire - René Coty,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000586,Pernety - Raymond Losserand,32.0,288,True,False,False,0.0,0.0764,0.0,0.0,0.0,0.0
+2026-09-21,54000587,Mairie du 14ème,32.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,54000588,Gare Montparnasse - Vaugirard,66.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000589,Cambronne - Mademoiselle,67.0,288,True,False,False,0.0,0.0104,0.0312,0.0,0.0,0.0
+2026-09-21,54000591,Franquet - Labrouste,37.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000592,Balard - Montagne de la Fage,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000593,Longchamp - Place d'Iéna,40.0,288,True,False,False,0.0,0.0,0.0903,0.0,0.0,0.0
+2026-09-21,54000595,Navier - Epinettes,54.0,288,True,False,False,0.0,0.0347,0.0,0.0,0.0,0.0
+2026-09-21,54000596,Jouffroy d'Abbans - Villiers,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000597,Bayen - Pereire,22.0,288,True,False,False,0.0,0.0451,0.0174,0.0,0.0,0.0
+2026-09-21,54000598,Mac-Mahon - Brey,25.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,54000599,Lemercier - Cardinet,24.0,288,True,False,False,0.0,0.1007,0.0,0.0,0.0,0.0
+2026-09-21,54000600,Toqueville - Cardinet,33.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,54000601,Jean-François Lépine - Stephenson,22.0,288,True,False,False,0.0,0.0972,0.059,0.0,0.0,0.0
+2026-09-21,54000604,Ordener - Poissonniers,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000605,Mairie du 18ème,40.0,288,True,False,False,0.0,0.1215,0.0,0.0,0.0,0.0
+2026-09-21,54000607,Convention - Saint-Charles,23.0,288,True,False,False,0.0,0.0,0.1424,0.0,0.0,0.0
+2026-09-21,54000608,Porte d'Aubervilliers,55.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000609,Laumière - Petit,34.0,288,True,False,False,0.0,0.0035,0.0,0.0,0.0,0.0
+2026-09-21,54000610,Jean de la Fontaine - Boulainvilliers,68.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000611,Manin - Simon Bolivar,26.0,288,True,False,False,0.0,0.2222,0.0,0.0,0.0,0.0
+2026-09-21,54000612,Cambrai - Benjamin Constant,43.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000615,Buzenval - Avron,50.0,288,True,False,False,0.0,0.1354,0.0,0.0,0.0,0.0
+2026-09-21,54000616,Pyrénées - Avron,32.0,288,True,False,False,0.0,0.1181,0.0,0.0,0.0,0.0
+2026-09-21,54000618,Pyrénées - Maraîchers,33.0,288,True,False,False,0.0,0.2257,0.0,0.0,0.0,0.0
+2026-09-21,54000619,Porte de Bagnolet,33.0,288,True,False,False,0.0,0.1701,0.0,0.0,0.0,0.0
+2026-09-21,54000621,Ménilmontant - Père Lachaise,41.0,288,True,False,False,0.0,0.0903,0.0,0.0,0.0,0.0
+2026-09-21,54000622,Davout - Volga,28.0,288,True,False,False,0.0,0.0868,0.0,0.0,0.0,0.0
+2026-09-21,54000623,Mairie du 20ème,27.0,288,True,False,False,0.0,0.3611,0.0,0.0,0.0,0.0
+2026-09-21,54000624,Gambetta - Tourelles,20.0,288,True,False,False,0.0,0.4062,0.0,0.0,0.0,0.0
+2026-09-21,54000625,Repos - Cimetière du Père Lachaise,33.0,288,True,False,False,0.0,0.2014,0.0,0.0,0.0,0.0
+2026-09-21,54000626,Madame de Sanzillon - Mozart,22.0,288,True,False,False,0.0,0.0,0.1736,0.0,0.0,0.0
+2026-09-21,54000627,Bertrand Sincholle - Henri Barbusse,23.0,288,True,False,False,0.0,0.0174,0.191,0.0,0.0,0.0
+2026-09-21,54000628,Claude Debussy - Marc Bloch,56.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000629,Commandant Charcot - Bretteville,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000630,Madeleine Michelis - Roule,25.0,288,True,False,False,0.0,0.0,0.0521,0.0,0.0,0.0
+2026-09-21,54000631,Victor Hugo - Bineau,25.0,288,True,False,False,0.0,0.0,0.0486,0.0,0.0,0.0
+2026-09-21,54000632,Paul Vaillant-Couturier - Victor Hugo,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,54000634,Bineau - Louise Michel,26.0,288,True,False,False,0.0,0.0,0.0868,0.0,0.0,0.0
+2026-09-21,54000635,Félix Faure - Sadi Carnot,33.0,288,True,False,False,0.0,0.0,0.0382,0.0,0.0,0.0
+2026-09-21,54001024,Parmentier - Abel Rabaud,52.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,54001189,Chaussée d'Antin - Haussmann,40.0,288,True,False,False,0.0,0.5069,0.1146,0.0,0.0,0.0
+2026-09-21,54001190,Mairie du 19ème,27.0,288,True,False,False,0.0,0.059,0.0,0.0,0.0,0.0
+2026-09-21,55664548,Charonne - Faubourg Saint-Antoine,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,55927887,Gabriel Lamé,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,58086242,Square des Amandiers,26.0,288,True,False,False,0.0,0.1597,0.0,0.0,0.0,0.0
+2026-09-21,58311330,Place des Droits de l'Enfant,39.0,288,True,False,False,0.0,0.0417,0.0,0.0,0.0,0.0
+2026-09-21,58391194,Tiron - Rivoli,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,60667075,Georges V - François 1er,22.0,288,True,False,False,0.0,0.2257,0.2049,0.0,0.0,0.0
+2026-09-21,63498079,Marché Secrétan,26.0,288,True,False,False,0.0,0.0486,0.0035,0.0,0.0,0.0
+2026-09-21,63769334,Emile Blemont - Poteau,39.0,288,True,False,False,0.0,0.0243,0.0,0.0,0.0,0.0
+2026-09-21,66489651,Louis le Grand - Italiens,33.0,288,True,False,False,0.0,0.0868,0.184,0.0,0.0,0.0
+2026-09-21,66491366,Saint-Marc - Feydeau,37.0,288,True,False,False,0.0,0.0,0.125,0.0,0.0,0.0
+2026-09-21,66491367,Beaubourg - Michel-le-Comte,17.0,288,True,False,False,0.0,0.0,0.0556,0.0,0.0,0.0
+2026-09-21,66491368,Sorbonne - Ecoles,69.0,288,True,False,False,0.0,0.1597,0.0,0.0,0.0,0.0
+2026-09-21,66491369,Montparnasse -  Square Ozanam,49.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,66491370,Jacques Callot - Mazarine,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66491371,Pierre Sarrazin - Saint-Michel,33.0,288,True,False,False,0.0,0.0,0.0972,0.0,0.0,0.0
+2026-09-21,66491372,M.- A. Lagroua Weill-Hallé -  F. Dolto,74.0,288,True,False,False,0.0,0.0,0.066,0.0,0.0,0.0
+2026-09-21,66491373,Pierre Joseph Desault,19.0,288,True,False,False,0.0,0.0,0.1319,0.0,0.0,0.0
+2026-09-21,66491378,Lakanal - Commerce,53.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66491379,Place des Abbesses,12.0,288,True,False,False,0.0,0.0,0.0451,0.0,0.0,0.0
+2026-09-21,66491381,Leibniz - Jean Dollfus,32.0,288,True,False,False,0.0,0.191,0.0,0.0,0.0,0.0
+2026-09-21,66491382,Guy Môquet - Compoint,36.0,288,True,False,False,0.0,0.1146,0.0833,0.0,0.0,0.0
+2026-09-21,66491384,Place Aristide Briand,35.0,288,True,False,False,0.0,0.0,0.1736,0.0,0.0,0.0
+2026-09-21,66491385,Fontenay - Libération,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66491386,Surcouf - Université,58.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66491388,Alfred de Vigny - Place du Général Brocard,33.0,288,True,False,False,0.0,0.0208,0.0,0.0,0.0,0.0
+2026-09-21,66491389,Place de la Reine Astrid,58.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66491390,Taitbout - Châteaudun,54.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66491391,Claude Vellefaux - Hôpital Saint-Louis,32.0,288,True,False,False,0.0,0.0451,0.0,0.0,0.0,0.0
+2026-09-21,66491392,Parmentier - Hôpital Saint-Louis,43.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,66491393,Dupleix - du Guesclin,47.0,288,True,False,False,0.0,0.0,0.0174,0.0,0.0,0.0
+2026-09-21,66491394,Square Saint-Ambroise,43.0,288,True,False,False,0.0,0.0,0.0174,0.0,0.0,0.0
+2026-09-21,66491395,Daumesnil - Hébrard,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66491396,Château de Vincennes,52.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66491397,Gare de Lyon - Place Louis Armand,60.0,288,True,False,False,0.0,0.0521,0.0451,0.0,0.0,0.0
+2026-09-21,66491398,Le Brun - Gobelins,48.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66491401,Fragonard - Porte de Clichy,56.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66491402,Marcadet - Barbès,37.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66491404,Flandre - Riquet,21.0,288,True,False,False,0.0,0.1667,0.066,0.0,0.0,0.0
+2026-09-21,66491405,Charonne - Avron,27.0,288,True,False,False,0.0,0.2049,0.0,0.0,0.0,0.0
+2026-09-21,66491406,Cours de Vincennes - Davout,48.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66491407,Haies - Réunion,22.0,288,True,False,False,0.0,0.1875,0.0,0.0,0.0,0.0
+2026-09-21,66491408,Calmette,32.0,288,True,False,False,0.0,0.1493,0.0,0.0,0.0,0.0
+2026-09-21,66491409,Guillaume Tell - Parc Henri Barbusse,20.0,288,True,False,False,0.0,0.0521,0.0,0.0,0.0,0.0
+2026-09-21,66499894,Sainte-Elisabeth - Turbigo,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66505510,Epée de Bois - Mouffetard,63.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66505511,François 1er - Montaigne,53.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66505513,François 1er - Lincoln,31.0,288,True,False,False,0.0,0.066,0.2014,0.0,0.0,0.0
+2026-09-21,66505516,Cordelières - Arago,60.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,66507229,Reims - Porte d'Asnières,26.0,288,True,False,False,0.0,0.0208,0.0,0.0,0.0,0.0
+2026-09-21,66507230,Saint-Marcel - Hôpital,21.0,288,True,False,False,0.0,0.0,0.0382,0.0,0.0,0.0
+2026-09-21,70736110,Etienne Dolet - Place Maurice Chevalier,47.0,288,True,False,False,0.0,0.2361,0.0,0.0,0.0,0.0
+2026-09-21,70903158,Raymond Poincaré - Place Victor Hugo,25.0,288,True,False,False,0.0,0.1111,0.0,0.0,0.0,0.0
+2026-09-21,72765603,Boulangers - Cardinal Lemoine,20.0,288,True,False,False,0.0,0.0035,0.1424,0.0,0.0,0.0
+2026-09-21,74620630,Parc de Belleville - Julien Lacroix,26.0,288,True,False,False,0.0,0.2361,0.0,0.0,0.0,0.0
+2026-09-21,74635382,Place de la Nation - Taillebourg,47.0,288,True,False,False,0.0764,0.0729,0.0,0.0,0.0,0.0
+2026-09-21,74692052,Francoeur - Caulaincourt,34.0,288,True,False,False,0.0,0.066,0.0,0.0,0.0,0.0
+2026-09-21,74805344,Pierre Charron - Champs-Elysées,32.0,288,True,False,False,0.0,0.0,0.0104,0.0,0.0,0.0
+2026-09-21,74858883,Pereire - Saussure,32.0,288,True,False,False,0.0,0.0382,0.0,0.0,0.0,0.0
+2026-09-21,74864208,Bagnolet - Place Saint-Blaise,28.0,288,True,False,False,0.0,0.2708,0.0,0.0,0.0,0.0
+2026-09-21,75313725,Ferrus - Saint-Jacques,34.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,75345531,Turbigo - Française,16.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,75352635,Place de la vache noire,25.0,288,True,False,False,0.0,0.0243,0.0035,0.0,0.0,0.0
+2026-09-21,75525462,Plantes - Moulin Vert,45.0,288,True,False,False,0.0,0.0938,0.0,0.0,0.0,0.0
+2026-09-21,75641607,Blaise-Desgoffe - Vaugirard,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,76121343,Abbé Groult - Convention,27.0,288,True,False,False,0.0,0.0278,0.1354,0.0,0.0,0.0903
+2026-09-21,76199461,Championnet - Vauvenargues,33.0,288,True,False,False,0.0,0.1458,0.0,0.0,0.0,0.0
+2026-09-21,76352106,Saint-Augustin,45.0,288,True,False,False,0.0,0.0,0.125,0.0,0.0,0.0
+2026-09-21,76488849,Fernand Braudel - Vincent Auriol ,36.0,288,True,False,False,0.0,0.0,0.0069,0.0,0.0,0.0
+2026-09-21,76507850,Dantzig - Lefebvre,33.0,288,True,False,False,0.0,0.0625,0.0,0.0,0.0,0.0
+2026-09-21,78348185,Mairie de Clichy,51.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,78374110,Square Pierre Lazareff,17.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,80077998,Lorraine - Jean Jaurès,19.0,288,True,False,False,0.0,0.0556,0.0139,0.0,0.0,0.0
+2026-09-21,80101533,Chazelles - Courcelles ,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,80216231,Belidor - Gouvion-Saint-Cyr,39.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,80298493,Mairie du Kremlin-Bicêtre,25.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,80419347,Lagny - Auguste Blanqui,27.0,288,True,False,False,0.0,0.0,0.0625,0.0,0.0,0.0
+2026-09-21,81081358,Pajol - Place Herbert,39.0,288,True,False,False,0.0,0.0486,0.0382,0.0,0.0,0.0
+2026-09-21,81212212,Jean Jaurès - Jules Jacquemin,24.0,288,True,False,False,0.0,0.1632,0.0,0.0,0.0,0.0
+2026-09-21,82253759,Mairie du 7ème,48.0,288,True,False,False,0.0,0.0,0.1389,0.0,0.0,0.0
+2026-09-21,82328045,Victoria - Place du Chatelet,22.0,288,True,False,False,0.0,0.0521,0.0417,0.0,0.0,0.0
+2026-09-21,82332239,Ecoles - Carmes,36.0,288,True,False,False,0.0,0.0799,0.2014,0.0,0.0,0.0
+2026-09-21,82334007,Pascal - Claude Bernard,49.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82335295,Saint-Séverin - Saint-Michel,30.0,288,True,False,False,0.0,0.0,0.0972,0.0,0.0,0.0
+2026-09-21,82336035,Saint-Germain - Ciseaux,18.0,288,True,False,False,0.0,0.0729,0.1562,0.0,0.0,0.0
+2026-09-21,82337423,Varenne,47.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82339935,Porte de la Muette,36.0,288,True,False,False,0.0,0.0833,0.0,0.0,0.0,0.0
+2026-09-21,82375611,Batignolles - Beudant,44.0,288,True,False,False,0.0,0.066,0.0,0.0,0.0,0.0
+2026-09-21,82379648,Lisbonne - Monceau,47.0,288,True,False,False,0.0,0.0,0.0903,0.0,0.0,0.0
+2026-09-21,82381710,Batignolles - Rome,15.0,288,True,False,False,0.0,0.316,0.0,0.0,0.0,0.0
+2026-09-21,82387816,Bertie Albrecht - Hoche,32.0,288,True,False,False,0.0,0.0625,0.0,0.0,0.0,0.0
+2026-09-21,82396562,Mairie du 10ème,19.0,288,True,False,False,0.0,0.0,0.1528,0.0,0.0,0.0
+2026-09-21,82402482,Gare de l'Est - Chateau Landon,59.0,288,True,False,False,0.0,0.066,0.0,0.0,0.0,0.0
+2026-09-21,82404497,Ledru-Rollin - Place du Père Chaillet,37.0,288,True,False,False,0.0,0.0,0.0972,0.0,0.0,0.0
+2026-09-21,82405965,Froment - Bréguet,43.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82408364,Guillaume Bertrand - République,38.0,288,True,False,False,0.0,0.066,0.0,0.0,0.0,0.0
+2026-09-21,82413301,Ménilmontant - Oberkampf,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82417874,Alexandre Dumas - Voltaire,74.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82419429,Faidherbe - Dahomey,44.0,288,True,False,False,0.0,0.0035,0.0,0.0,0.0,0.0
+2026-09-21,82421013,Charenton - Place du Col Bourgoin,35.0,288,True,False,False,0.0,0.0,0.0104,0.0,0.0,0.0
+2026-09-21,82421994,Gare de Bercy,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82423726,Gare de Lyon - Roland Barthes,68.0,288,True,False,False,0.0,0.1354,0.0,0.0,0.0,0.0
+2026-09-21,82425449,Bois de Vincennes - Polygone,51.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82429586,Duméril - Jeanne d'Arc,40.0,288,True,False,False,0.0,0.0,0.0035,0.0,0.0,0.0
+2026-09-21,82432573,Porte d'Ivry,50.0,288,True,False,False,0.0,0.125,0.0,0.0,0.0,0.0
+2026-09-21,82436057,Moulin de la Pointe,22.0,288,True,False,False,0.0,0.0243,0.0,0.0,0.0,0.0
+2026-09-21,82440673,Maine - Jean Zay,50.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82445192,Gare Montparnasse - René Mouchotte,41.0,288,True,False,False,0.0,0.2674,0.0,0.0,0.0,0.0
+2026-09-21,82448637,Suffren - Pérignon,46.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82450803,Square Cambronne,59.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82455731,Cambronne - Villa Croix Nivert,62.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82457375,Volontaires - Lecourbe,31.0,288,True,False,False,0.0,0.0035,0.0486,0.0,0.0,0.0
+2026-09-21,82458977,Place Falguière,23.0,288,True,False,False,0.0,0.0382,0.0,0.0,0.0,0.0
+2026-09-21,82468690,Dutot - Place Alleray,56.0,288,True,False,False,0.0,0.1111,0.0,0.0,0.0,0.0
+2026-09-21,82499609,Convention - Lourmel,36.0,288,True,False,False,0.0,0.0,0.1215,0.0,0.0,0.0
+2026-09-21,82508970,Verdun - Adrien Damalix,26.0,288,True,False,False,0.0,0.0833,0.0694,0.0,0.0,0.0
+2026-09-21,82550543,Place de Barcelone - Mirabeau,55.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82551956,Marché d'Auteuil,32.0,288,True,False,False,0.0,0.0,0.0556,0.0,0.0,0.0
+2026-09-21,82554449,Porte Molitor,60.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82554786,Place de l'Eglise - Pantin,30.0,288,True,False,False,0.0,0.0972,0.0,0.0,0.0,0.0
+2026-09-21,82562496,Benjamin Delessert - Jean Lolive,21.0,288,True,False,False,0.0,0.0764,0.0,0.0,0.0,0.0
+2026-09-21,82562556,Exelmans - Versailles,49.0,288,True,False,False,0.0,0.0,0.0486,0.0,0.0,0.0
+2026-09-21,82563707,Exelmans - Michel-Ange,33.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,82565383,Jacques Kellner - Saint-Ouen,45.0,288,True,False,False,0.0,0.0972,0.0,0.0,0.0,0.0
+2026-09-21,82566934,Brochant - Clichy,53.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82567101,Château - République,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82568336,Jeanne Hornet - Girardot,29.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82569809,Jardin Marguerite Long,22.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82571023,Alexandre Dumas - Place de la Réunion,45.0,288,True,False,False,0.0,0.2118,0.0,0.0,0.0,0.0
+2026-09-21,82571110,Verdun - Place Henri IV,,288,True,False,False,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,82573931,René Binet - Porte de Montmartre,37.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82574198,Mairie d'Issy,41.0,288,True,False,False,0.0,0.0,0.0347,0.0,0.0,0.0
+2026-09-21,82574979,Arthur Ranc - Hôpital Bichat,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82577019,Cité des Sciences et de l'Industrie,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82583924,Pyrénées - Charles Renouvier,29.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82584215,Place Lafayette,62.0,288,True,False,False,0.0,0.0,0.066,0.0,0.0,0.0
+2026-09-21,82587428,Dupont de l'Eure - Gambetta,31.0,288,True,False,False,0.0,0.1597,0.0,0.0,0.0,0.0
+2026-09-21,82588494,Verdier - République,29.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82588656,Rond-Point Rhin et Danube,53.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,82590367,Place Marcel Sembat,56.0,288,True,False,False,0.0,0.0,0.1076,0.0,0.0,0.0
+2026-09-21,84958519,Arcole - Notre-Dame,14.0,288,True,False,False,0.0,0.0,0.1007,0.0,0.0,0.0
+2026-09-21,84960402,Gobelins - Port-Royal,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,84961467,Lacépède - Linné,54.0,288,True,False,False,0.0,0.0,0.0938,0.0,0.0,0.0
+2026-09-21,84966359,Naples - Rome,26.0,288,True,False,False,0.0,0.0729,0.0,0.0,0.0,0.0
+2026-09-21,84979504,Provence - Chaussée d'Antin,25.0,288,True,False,False,0.0,0.1806,0.0,0.0,0.0,0.0
+2026-09-21,84983562,Roquette - Folie Regnault,52.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,84986959,Bastille - Biscornet,62.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,85002689,Jourdan - Stade Charléty,60.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,85008390,Grenelle - Dr Finlay,71.0,288,True,False,False,0.0,0.0,0.2326,0.0,0.0,0.0
+2026-09-21,85015750,Pergolèse - Malakoff,38.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,85043758,Guersant - Gouvion-Saint-Cyr,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,85118872,Indre - Prairies,38.0,288,True,False,False,0.0,0.1493,0.0,0.0,0.0,0.0
+2026-09-21,85120104,Pelleport - Belgrand,15.0,288,True,False,False,0.0,0.1875,0.0104,0.0,0.0,0.0
+2026-09-21,85123644,Pyrénées - Ménilmontant,26.0,288,True,False,False,0.0,0.2743,0.0,0.0,0.0,0.0
+2026-09-21,85145704,Réunion - Avron,26.0,288,True,False,False,0.0,0.2188,0.0,0.0,0.0,0.0
+2026-09-21,85147829,Hôtel de Ville de Boulogne Billancourt,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,85152599,Le Corbusier - Jean Jaurès,46.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,85155919,Estienne d'Orves - Henri Ginoux,31.0,288,True,False,False,0.0,0.125,0.0,0.0,0.0,0.0
+2026-09-21,85160045,Arthur Auger - Jean Jaurès,26.0,288,True,False,False,0.0,0.0035,0.0,0.0,0.0,0.0
+2026-09-21,85162552,Fontainebleau - Edmond Michelet,45.0,288,True,False,False,0.0,0.125,0.0,0.0,0.0,0.0
+2026-09-21,85165045,Place Jean-Baptiste Clément,24.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,88140066,Rocher - Laborde,65.0,288,True,False,False,0.0,0.0625,0.0,0.0,0.0,0.0
+2026-09-21,88230992,De Toqueville - Terrasse,30.0,288,True,False,False,0.0,0.1424,0.0,0.0,0.0,0.0
+2026-09-21,89553051,Pyrénées - Cours de Vincennes,21.0,288,True,False,False,0.0,0.191,0.0,0.0,0.0,0.0
+2026-09-21,94250567,Mairie d'Ivry-sur-Seine,53.0,288,True,False,False,0.0,0.0,0.0417,0.0,0.0,0.0
+2026-09-21,94555589,Pierre et Marie Curie - Maurice Thorez,27.0,288,True,False,False,0.0,0.066,0.0,0.0,0.0,0.0
+2026-09-21,95073815,Saint-Lazare - Place d'Estienne d'Orves,39.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,95845524,Cité Riverin - Château d'Eau,18.0,288,True,False,False,0.0,0.0035,0.3056,0.0,0.0,0.0
+2026-09-21,95927849,Jean Jaurès - Jean Baptiste Clément ,39.0,288,True,False,False,0.0,0.0,0.2188,0.0,0.0,0.0
+2026-09-21,96512532,Joseph Sansboeuf - Saint Lazare,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,96608796,Fille du Calvaire - Turenne,29.0,288,True,False,False,0.0,0.0,0.0451,0.0,0.0,0.0
+2026-09-21,97677210,Parmentier - République,50.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,97705710,Jacquard - Ternaux,39.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,98132679,Jean Bleuzen - Square du 11 Novembre,49.0,288,True,False,False,0.0,0.1493,0.0,0.0,0.0,0.0
+2026-09-21,98187918,Lobau - Hôtel de Ville,60.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,99798962,Place Saint-André des Arts,13.0,288,True,False,False,0.0,0.0,0.2396,0.0,0.0,0.0
+2026-09-21,99840124,Regard - Rennes,46.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,99886640,Place des Victoires,24.0,288,True,False,False,0.0,0.0,0.0694,0.0,0.0,0.0
+2026-09-21,99950133,André Mazet - Saint-André des Arts,55.0,288,True,False,False,0.0,0.0,0.1667,0.0,0.0,0.0
+2026-09-21,100227241,Guynemer - Jardin du Luxembourg,36.0,288,True,False,False,0.0,0.0,0.0833,0.0,0.0,0.0
+2026-09-21,100759356,Montmartre - Etienne Marcel,16.0,288,True,False,False,0.0,0.0,0.0972,0.0,0.0,0.0
+2026-09-21,100760396,Turbigo - Réaumur,31.0,288,True,False,False,0.0,0.0,0.059,0.0,0.0,0.0
+2026-09-21,100767550,Mairie du 4ème,44.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,100769544,Harpe - Saint-Germain,45.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,100770878,Poissy - Saint-Germain,25.0,288,True,False,False,0.0,0.0,0.3264,0.0,0.0,0.0
+2026-09-21,100783424,Censier - Santeuil,69.0,288,True,False,False,0.0,0.0,0.0139,0.0,0.0,0.0
+2026-09-21,100790494,Bréa - Raspail,24.0,288,True,False,False,0.0,0.1042,0.0,0.0,0.0,0.0
+2026-09-21,100798076,Danton - Serpente,36.0,288,True,False,False,0.0,0.0,0.0139,0.0,0.0,0.0
+2026-09-21,100855693,Sabot - Rennes,26.0,288,True,False,False,0.0,0.0,0.1979,0.0,0.0,0.0
+2026-09-21,100859941,Raspail - Bac,52.0,288,True,False,False,0.0,0.0,0.1319,0.0,0.0,0.0
+2026-09-21,100863462,Musée d'Orsay,65.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,100868590,Cité Vaneau,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,100872260,Duroc - Place de Breteuil,42.0,288,True,False,False,0.0,0.0,0.0069,0.0,0.0,0.0
+2026-09-21,100893610,Bourdonnais - Tour Eiffel,60.0,288,True,False,False,0.0,0.0,0.1181,0.0,0.0,0.0
+2026-09-21,100902274,Roquépine - Malesherbes,53.0,288,True,False,False,0.0,0.0,0.1007,0.0,0.0,0.0
+2026-09-21,100906707,Boulets - Faubourg Saint-Antoine,43.0,288,True,False,False,0.0,0.1285,0.0,0.0,0.0,0.0
+2026-09-21,100910836,Parmentier - Fontaine au Roi,48.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,100918666,Place Pasdeloup,21.0,288,True,False,False,0.0347,0.2569,0.0,0.0,0.0,0.0
+2026-09-21,100921894,Léon Frot - Charonne,38.0,288,True,False,False,0.0,0.1007,0.0278,0.0,0.0,0.0
+2026-09-21,100923502,Crozatier - Faubourg Saint-Antoine,42.0,288,True,False,False,0.0,0.0,0.0069,0.0,0.0,0.0
+2026-09-21,100925033,Gare de Lyon - Chalon,45.0,288,True,False,False,0.0,0.2569,0.0174,0.0,0.0,0.0
+2026-09-21,100933541,Vivaldi - Antoine-Julien Hénard,27.0,288,True,False,False,0.0,0.0938,0.0,0.0,0.0,0.0
+2026-09-21,100934967,Madagascar - Meuniers,47.0,288,True,False,False,0.0,0.0,0.1146,0.0,0.0,0.0
+2026-09-21,100967498,Stalingrad - Rigollots,51.0,288,True,False,False,0.0,0.1007,0.0,0.0,0.0,0.0
+2026-09-21,101008598,Reuilly - Place Felix Eboue,42.0,288,True,False,False,0.0,0.0868,0.0,0.0,0.0,0.0
+2026-09-21,101010226,Porte de Charenton,67.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,101011685,Charenton - Prague,26.0,288,True,False,False,0.0,0.2604,0.0347,0.0,0.0,0.0
+2026-09-21,101013666,Bercy - Villot,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,101015227,Chevaleret - Louise Weiss,35.0,288,True,False,False,0.0,0.0,0.184,0.0,0.0,0.0
+2026-09-21,101022698,Olympiades,36.0,288,True,False,False,0.0,0.0694,0.0,0.0,0.0,0.0
+2026-09-21,101024234,Quai Panhard et Levassor,57.0,288,True,False,False,0.0,0.0,0.1389,0.0,0.0,0.0
+2026-09-21,101488317,René Coty - Place Denfert-Rochereau,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,101490103,Saint-Jacques - Tombe Issoire,23.0,288,True,False,False,0.0,0.1146,0.0,0.0,0.0,0.0
+2026-09-21,101491821,Jean Moulin - Place Victor et Hélène Basch,41.0,288,True,False,False,0.0,0.0938,0.0,0.0,0.0,0.0
+2026-09-21,101738550,Didot - Place de Moro-Giafferi,38.0,288,True,False,False,0.0,0.0868,0.0,0.0,0.0,0.0
+2026-09-21,101740379,Boulard - Daguerre,45.0,288,True,False,False,0.0,0.1875,0.0,0.0,0.0,0.0
+2026-09-21,101742129,Cherche-Midi - Hôpital Necker,38.0,288,True,False,False,0.0,0.0451,0.0,0.0,0.0,0.0
+2026-09-21,101743895,Joseph Liouville - Croix Nivert,64.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,101746493,Théâtre - Lourmel,53.0,288,True,False,False,0.0,0.0,0.1944,0.0,0.0,0.0
+2026-09-21,101748685,Place Etienne Pernet,43.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,101751231,Saint-Amand - Labrouste,36.0,288,True,False,False,0.0,0.1285,0.0,0.0,0.0,0.0
+2026-09-21,101753100,Henry Farman,16.0,288,True,False,False,0.0,0.0,0.3542,0.0,0.0,0.0
+2026-09-21,101756482,Convention - Vaugirard,62.0,288,True,False,False,0.0,0.0,0.0451,0.0,0.0,0.0
+2026-09-21,101759167,Lecourbe - Convention,46.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,101761298,Place du Moulin de Javel,45.0,288,True,False,False,0.0,0.0,0.0868,0.0,0.0,0.4514
+2026-09-21,101763163,Desaix - Edgar Faure,12.0,288,True,False,False,0.0,0.0,0.2222,0.0,0.0,0.0
+2026-09-21,102287315,Félix Faure - Convention,44.0,288,True,False,False,0.0,0.0,0.0764,0.0,0.0,0.0
+2026-09-21,102289046,Lourmel - Marie Skobtsov,36.0,288,True,False,False,0.0,0.0,0.2847,0.0,0.0,0.0
+2026-09-21,102304517,Pereire - Place de Wagram,46.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,102307005,Villiers - Batignolles,23.0,288,True,False,False,0.0,0.059,0.0,0.0,0.0,0.0
+2026-09-21,102309973,Cimetière de Montmartre,43.0,288,True,False,False,0.0,0.2049,0.0,0.0,0.0,0.0
+2026-09-21,102311820,Clignancourt - Ordener,35.0,288,True,False,False,0.0,0.1319,0.0,0.0,0.0,0.0
+2026-09-21,102313219,Belliard - Damrémont,34.0,288,True,False,False,0.0,0.125,0.0,0.0,0.0,0.0
+2026-09-21,102314792,Etienne Jodelle - Saint Ouen,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,102323152,Manin - Carrières d'Amérique,20.0,288,True,False,False,0.0,0.2014,0.0,0.0,0.0,0.0
+2026-09-21,102324803,Pyrénées - Emmery,40.0,288,True,False,False,0.0,0.2743,0.0,0.0,0.0,0.0
+2026-09-21,102326776,Jardin de l'Hospice Debrousse,23.0,288,True,False,False,0.0,0.2083,0.0,0.0,0.0,0.0
+2026-09-21,102328355,Place Denfert-Rochereau,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,102329800,Marcelin Berthelot,27.0,288,True,False,False,0.0,0.0,0.0833,0.0,0.0,0.0
+2026-09-21,102331767,Victor Hugo - Galliéni,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,102333275,Saint-Vincent - Verdun,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,102335085,Aristide Briand - Place de la Résistance,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,102336814,Kléber - Gouverneur Général Eboué,24.0,288,True,False,False,0.0,0.0,0.3611,0.0,0.0,0.0
+2026-09-21,102338493,Larmeroux - Baudelaire,29.0,288,True,False,False,0.0,0.0451,0.0,0.0,0.0,0.0
+2026-09-21,102339791,Place du Maréchal de Lattre de Tassigny,27.0,288,True,False,False,0.0,0.0764,0.1007,0.0,0.0,0.0
+2026-09-21,102341385,Château - Bineau,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,102343591,Louis Pasteur - Albert Petit,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,102722579,Voltaire - Anatole France,27.0,288,True,False,False,0.0,0.0,0.0729,0.0,0.0,0.0
+2026-09-21,102724418,Général Leclerc - Bièvre,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,102743096,Sadi Carnot - François Mitterrand ,27.0,288,True,False,False,0.0,0.2153,0.0,0.0,0.0,0.0
+2026-09-21,102745622,Raspail - Albert Schweitzer,28.0,288,True,False,False,0.0,0.0,0.316,0.0,0.0,0.0
+2026-09-21,102747146,Lagny - Victor Basch,26.0,288,True,False,False,0.0,0.0,0.0486,0.0,0.0,0.0
+2026-09-21,102748267,Montreuil - République,25.0,288,True,False,False,0.0,0.0035,0.0,0.0,0.0,0.0
+2026-09-21,102749572,Gare RER de Vincennes,51.0,288,True,False,False,0.0,0.2222,0.0139,0.0,0.0,0.0
+2026-09-21,102751453,Hôtel de Ville de Vincennes,27.0,288,True,False,False,0.0,0.0694,0.0,0.0,0.0,0.0
+2026-09-21,102752610,Mairie de Bagnolet,28.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,109609241,Colmar - Victor Hugo,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,117480156,Enfants du Paradis - Peupliers,40.0,288,True,False,False,0.0,0.0,0.0556,0.0,0.0,0.434
+2026-09-21,120564786,Filles Saint-Thomas - Place de la Bourse,58.0,288,True,False,False,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,120827885,Messine - Place Du Pérou,12.0,288,True,False,False,0.0,0.0,0.1979,0.0,0.0,0.0
+2026-09-21,121025345,Chabrol - d'Hauteville,11.0,288,True,False,False,0.0,0.0139,0.0208,0.0,0.0,0.0
+2026-09-21,121086415,Colisée - Champs-Elysées,24.0,288,True,False,False,1.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,121160813,Place Tristan Bernard,28.0,288,True,False,False,0.0,0.0,0.0208,0.0451,0.0,0.0
+2026-09-21,123095125,Alibert - Jemmapes,60.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,124167835,Lavoisier - Missak Manouchian,18.0,288,True,False,False,0.0,0.0,0.3785,0.0,0.0,0.0
+2026-09-21,124183944,Hector Malot - Daumesnil,54.0,288,True,False,False,0.0,0.0903,0.0,0.0,0.0,0.0
+2026-09-21,124390478,Commandant l'Herminier - Gallieni,17.0,288,True,False,False,0.0,0.0799,0.0764,0.0,0.0,0.0
+2026-09-21,124402232,Belleville - Télégraphe,41.0,288,True,False,False,0.0,0.3056,0.0,0.0,0.0,0.0
+2026-09-21,124622630,Pelée - Alphonse Baudin,38.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,125370566,Manin - Secrétan,20.0,288,True,False,False,0.0,0.1424,0.0,0.0,0.0,0.0
+2026-09-21,125469898,Square Léon,33.0,288,True,False,False,0.0,0.1771,0.0,0.0,0.0,0.0
+2026-09-21,125542925,Louis Blanc - Aqueduc,37.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,125623876,Phalsbourg - Villiers,20.0,288,True,False,False,0.0,0.0208,0.0,0.0,0.0,0.0
+2026-09-21,125811629,Leredde - Tolbiac,44.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,125881065,Metz - Marne,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,125918662,Marcadet - Ramey,39.0,288,True,False,False,0.0,0.2396,0.0,0.0,0.0,0.0
+2026-09-21,126050442,Pereire - Rennequin,23.0,288,True,False,False,0.0,0.0174,0.0,0.0,0.0,0.0
+2026-09-21,126175087,Gabrielle Josserand - Edouard Vaillant,25.0,288,True,False,False,0.0,0.0,0.2431,0.0,0.0,0.0
+2026-09-21,126354477,Clichy - Place Blanche,20.0,288,True,False,False,0.0,0.125,0.0243,0.0,0.0,0.0
+2026-09-21,128834707,Jean-Jacques Rousseau - Deux Ecus,22.0,288,True,False,False,0.0,0.2257,0.0208,0.0,0.0,0.0
+2026-09-21,128841079,Cambon - Rivoli,40.0,288,True,False,False,0.0,0.0,0.059,0.0,0.0,0.0
+2026-09-21,128843085,Place du Lieutenant Henri Karcher,30.0,288,True,False,False,0.0,0.0,0.0938,0.0,0.0,0.0
+2026-09-21,128874528,Temple - Haudriettes,19.0,288,True,False,False,0.0,0.0104,0.0,0.0,0.0,0.0
+2026-09-21,128878135,Village Saint-Paul,28.0,288,True,False,False,0.0,0.0,0.0556,0.0,0.0,0.0
+2026-09-21,128880156,Archives - Rivoli,25.0,288,True,False,False,0.0,0.2222,0.0069,0.0,0.0,0.0
+2026-09-21,128882438,Institut du Monde Arabe - Saint-Germain,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,128884445,Constantine - Université,65.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,128887067,Ségur - d'Estrées,19.0,288,True,False,False,0.0,0.0208,0.0,0.0,0.0,0.0
+2026-09-21,128889359,Champ de Mars - Cler,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,128890772,Bosquet - Saint-Dominique,28.0,288,True,False,False,0.0,0.0,0.1458,0.0,0.0,0.0
+2026-09-21,128915891,Octave Gréard - Tour Eiffel,33.0,288,True,False,False,0.0,0.0,0.1597,0.0,0.0,0.0
+2026-09-21,128920403,Gare Saint-Lazare - Isly,27.0,288,True,False,False,0.0,0.125,0.0,0.0,0.0,0.0
+2026-09-21,128928526,Clapeyron - Moscou,15.0,288,True,False,False,0.0,0.1979,0.0,0.0,0.0,0.0
+2026-09-21,128930462,Square Louis XVI,29.0,288,True,False,False,0.0,0.0,0.1389,0.0,0.0,0.0
+2026-09-21,128932790,Arsène Houssaye - Champs-Elysées,52.0,288,True,False,False,1.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,128940135,Marceau - Chaillot,21.0,288,True,False,False,0.0,0.2257,0.1736,0.0,0.0,0.0
+2026-09-21,128986726,Boétie - Ponthieu,41.0,288,True,False,False,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,128989986,Place Georges Guillaumin,29.0,288,True,False,False,0.0,0.1146,0.2292,0.0,0.0,0.0
+2026-09-21,129001431,Courcelles - Place des Ternes,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129004826,Bellefond - Poissonnière,17.0,288,True,False,False,0.0,0.125,0.0,0.0,0.0,0.0
+2026-09-21,129011497,Rochechouart lamartine,24.0,288,True,False,False,0.0,0.0833,0.0,0.0,0.0,0.0
+2026-09-21,129014600,Rossini - Laffitte,33.0,288,True,False,False,0.0,0.1389,0.0,0.0,0.0,0.0
+2026-09-21,129016495,Taitbout - La Fayette,53.0,288,True,False,False,0.0,0.0069,0.0417,0.0,0.0,0.0
+2026-09-21,129021753,Moncey - Blanche,17.0,288,True,False,False,0.0,0.0451,0.0,0.0,0.0,0.0
+2026-09-21,129023855,Parme - Clichy,24.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129025451,Douai - Bruxelles,27.0,288,True,False,False,0.0,0.2361,0.0,0.0,0.0,0.0
+2026-09-21,129026597,Caumartin - Provence,22.0,288,True,False,False,0.0,0.0729,0.0799,0.0,0.0,0.0
+2026-09-21,129029327,Victoire - Laffitte,20.0,288,True,False,False,0.0,0.3333,0.0972,0.0,0.0,0.0
+2026-09-21,129032910,Marseille - Beaurepaire,55.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129034587,Récollets - Square Villemin,17.0,288,True,False,False,0.0,0.3715,0.0,0.0,0.0,0.0
+2026-09-21,129036192,Gare de l'Est - Verdun,14.0,288,True,False,False,0.0,0.1111,0.0,0.0,0.0,0.0
+2026-09-21,129038848,Enghien - Faubourg Poissonnière,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129042700,Granges aux Belles - Hôpital Saint-Louis,60.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,129043651,Roquette - Thiéré,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129048000,Saint-Maur - Roquette,65.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129050965,Place de la République - Voltaire,19.0,288,True,False,False,0.0,0.1319,0.0486,0.0,0.0,0.0
+2026-09-21,129059516,Picpus - Louis Braille,58.0,288,True,False,False,0.0,0.0104,0.0,0.0,0.0,0.0
+2026-09-21,129060764,Victor Hugo - Jeanne Jugan,28.0,288,True,False,False,0.0,0.0799,0.0,0.0,0.0,0.0
+2026-09-21,129061615,Primo Levi - Frigos,34.0,288,True,False,False,0.0,0.0,0.191,0.0,0.0,0.0
+2026-09-21,129067920,Mouton Duvernet - Général Leclerc,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129069108,Paul Barruel - Vaugirard,39.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129077035,Emeriau - Place de Brazzaville,51.0,288,True,False,False,0.0,0.0,0.0035,0.0,0.0,0.0
+2026-09-21,129078200,Parc Georges Brassens - Brancion,29.0,288,True,False,False,0.0,0.1701,0.1042,0.0,0.0,0.0
+2026-09-21,129079313,Commerce - Letellier,44.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129080400,Belles Feuilles - Place de Mexico,23.0,288,True,False,False,0.0,0.0451,0.0,0.0,0.0,0.0
+2026-09-21,129081441,Vignes - Boulainvilliers,21.0,288,True,False,False,0.0,0.1319,0.0,0.0,0.0,0.0
+2026-09-21,129083553,Porte de Saint Cloud - Parc des Princes,32.0,288,True,False,False,0.0,0.0,0.059,0.0,0.0,0.0
+2026-09-21,129086648,Ceinture du Lac Inferieure - Saint-Cloud,42.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129087587,Legendre - Clichy,40.0,288,True,False,False,0.0,0.0,0.0625,0.0,0.0,0.0
+2026-09-21,129088667,Jonquière - Docteur Paul Brousse,54.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,129089749,Brochant - Square des Batignolles,31.0,288,True,False,False,0.0,0.059,0.0,0.0,0.0,0.0
+2026-09-21,129091653,Gare de Pont-Cardinet,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129094535,Porte de Saint-Ouen - Bessières,42.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129095489,Batignolles - Abel Truchet,28.0,288,True,False,False,0.0,0.1389,0.0,0.0,0.0,0.0
+2026-09-21,129096696,Léon - Doudeauville,13.0,288,True,False,False,0.0,0.1701,0.0,0.0,0.0,0.0
+2026-09-21,129101773,Caulaincourt - Place Constantin Pecqueur,44.0,288,True,False,False,0.0,0.2049,0.0,0.0,0.0,0.0
+2026-09-21,129103849,Francoeur - Marcadet,20.0,288,True,False,False,0.0,0.2049,0.0,0.0,0.0,0.0
+2026-09-21,129106450,Joseph Dijon - Ornano,37.0,288,True,False,False,0.0,0.1389,0.0,0.0,0.0,0.0
+2026-09-21,129107656,Félix Ziem - Armand Gauthier,25.0,288,True,False,False,0.0,0.1562,0.0,0.0,0.0,0.0
+2026-09-21,129114993,Belleville - Porte des Lilas,32.0,288,True,False,False,0.0,0.2986,0.0,0.0,0.0,0.0
+2026-09-21,129116697,Tanger - Place du Maroc,19.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129119449,Ménilmontant - Pelleport,32.0,288,True,False,False,0.0,0.25,0.0,0.0,0.0,0.0
+2026-09-21,129121741,Belleville - Couronnes,50.0,288,True,False,False,0.0,0.1424,0.0,0.0,0.0,0.0
+2026-09-21,129125489,Piat - Parc de Belleville,21.0,288,True,False,False,0.0,0.1458,0.0,0.0,0.0,0.0
+2026-09-21,129130397,Pierre Grenier - Pont de Billancourt,21.0,288,True,False,False,0.0,0.0,0.1493,0.0,0.0,0.0
+2026-09-21,129132870,Nationale - Place Jules Guesde,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129134084,Morice - Général Leclerc,25.0,288,True,False,False,0.0,0.0104,0.1146,0.0,0.0,0.0
+2026-09-21,129135654,Victor Cresson - Telles de la Poterie,31.0,288,True,False,False,0.0,0.0,0.0243,0.0,0.0,0.0
+2026-09-21,129136818,Square du Carrefour de l'Insurrection,23.0,288,True,False,False,0.0,0.0069,0.1146,0.0,0.0,0.0
+2026-09-21,129142199,Marcel Yol - Jullien,30.0,288,True,False,False,0.0,0.125,0.0069,0.0,0.0,0.0
+2026-09-21,129143598,Pierret - Madrid,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129144878,Paris - Emile Zola,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129145892,Paris - Désiré Préaux,49.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,129151834,Stalingrad - Désiré Chevalier,42.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,129152818,Place de la Fraternité,22.0,288,True,False,False,0.0,0.0486,0.184,0.0,0.0,0.0
+2026-09-21,129161858,République - Henri Barbusse,32.0,288,True,False,False,0.0,0.0,0.1389,0.0,0.0,0.0
+2026-09-21,129164969,Place Jean-Spire-Lemaître,50.0,288,True,False,False,0.0,0.1076,0.0,0.0,0.0,0.0
+2026-09-21,131094294,Charles Tillon - Cimetière Communal,30.0,288,True,False,False,0.0,0.0,0.0139,0.0,0.0,0.0
+2026-09-21,131908132,Parc Eli Lotar,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,135806005,Mairie de Romainville,17.0,288,True,False,False,0.0,0.184,0.0,0.0,0.0,0.0
+2026-09-21,201923447,Murat - Porte de Saint-Cloud,38.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,205047993,Edgar Quinet - Raspail,46.0,288,True,False,False,0.0,0.1424,0.0,0.0,0.0,0.0
+2026-09-21,205938683,Delphine Seyrig - Général Leclerc,53.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,205955605,Bienfaisance - Place de Narvik,36.0,288,True,False,False,0.0,0.184,0.1319,0.0,0.0,0.0
+2026-09-21,207633746,Grande Armée - Brunel,62.0,288,True,False,False,0.0,0.0382,0.0,0.0,0.0,0.0
+2026-09-21,208603342,Coquillière - Louvre,21.0,288,True,False,False,0.0,0.0,0.0139,0.0,0.0,0.0
+2026-09-21,208795867,Ambroise Rendu - Porte Brunet,17.0,288,True,False,False,0.0,0.1111,0.0,0.0,0.0,0.0
+2026-09-21,209057581,Gabriel Péri - Francisco Ferrer,18.0,288,True,False,False,0.0,0.1111,0.0,0.0,0.0,0.0
+2026-09-21,209063434,André Karman - République,31.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,210090269,Jean Macé - Faidherbe,78.0,288,True,False,False,0.0,0.0208,0.0,0.0,0.0,0.0
+2026-09-21,210328645,Place André Malraux,37.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,210386007,Alger - Rivoli,21.0,288,True,False,False,0.0,0.0278,0.0486,0.0,0.0,0.0
+2026-09-21,210387163,Saint-Denis - Réaumur,32.0,288,True,False,False,0.0,0.0,0.0035,0.0,0.0,0.0
+2026-09-21,210389577,Daunou - Louis le Grand,32.0,288,True,False,False,0.0,0.0,0.1181,0.0,0.0,0.0
+2026-09-21,210394523,Porte Saint-Martin,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,210395439,Centre Georges Pompidou,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,210396518,Estrapade - Ulm,16.0,288,True,False,False,0.0,0.0556,0.1701,0.0,0.0,0.0
+2026-09-21,210397939,Thouin - Cardinal Lemoine,17.0,288,True,False,False,0.0,0.1007,0.059,0.0,0.0,0.0
+2026-09-21,210399835,Panthéon - Valette,51.0,288,True,False,False,0.0,0.1597,0.0,0.0,0.0,0.0
+2026-09-21,210403080,Lacépède - Monge,23.0,288,True,False,False,0.0,0.0243,0.0139,0.0,0.0,0.0
+2026-09-21,210405211,Beaux-Arts - Bonaparte,20.0,288,True,False,False,0.0,0.1215,0.1493,0.0,0.0,0.0
+2026-09-21,210408693,Vaugirard - Monsieur le Prince,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,210561800,Saint-Romain - Cherche-Midi,17.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,210565680,Vaneau - Sèvres,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,210566542,Square Boucicaut,60.0,288,True,False,False,0.0,0.0,0.1458,0.0,0.0,0.0
+2026-09-21,210567545,Raspail - Varenne,18.0,288,True,False,False,0.0,0.0312,0.2188,0.0,0.0,0.0
+2026-09-21,210568512,Assemblée Nationale,76.0,288,True,False,False,0.0,0.0,0.0139,0.0,0.0,0.0
+2026-09-21,210573120,Hoche - Tilsitt,33.0,288,True,False,False,0.0,0.0938,0.0556,0.0,0.0,0.0
+2026-09-21,210574471,Abbeville - Faubourg Poissonnière,14.0,288,True,False,False,0.0,0.1528,0.0,0.0,0.0,0.0
+2026-09-21,210580039,Tour d'Auvergne - Rodier,17.0,288,True,False,False,0.0,0.1042,0.0,0.0,0.0,0.0
+2026-09-21,210581084,Gare Saint-Lazare - Place de Budapest,44.0,288,True,False,False,0.0,0.0104,0.0,0.0,0.0,0.0
+2026-09-21,210582231,Londres - Place d'Estienne d'Orves,25.0,288,True,False,False,0.0,0.0,0.0174,0.0,0.0,0.0
+2026-09-21,210582921,Boudreau - Auber,28.0,288,True,False,False,0.0,0.1493,0.1111,0.0,0.0,0.0
+2026-09-21,210583589,Place Jacques Bonsergent,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,210584503,Gare de l'Est - Fidélité,15.0,288,True,False,False,0.0,0.0,0.0833,0.0,0.0,0.0
+2026-09-21,210585225,Dunkerque - Alsace,20.0,288,True,False,False,0.0,0.1875,0.0,0.0,0.0,0.0
+2026-09-21,210586093,Dunkerque - Rocroy,24.0,288,True,False,False,0.0,0.1319,0.0,0.0,0.0,0.0
+2026-09-21,210737808,Aqueduc - Villette,28.0,288,True,False,False,0.0,0.0,0.0139,0.0,0.0,0.0
+2026-09-21,210738704,Mazagran - Bonne Nouvelle,25.0,288,True,False,False,0.0,0.0,0.1076,0.0,0.0,0.0
+2026-09-21,210740080,Gare du Nord - Hôpital Lariboisière,49.0,288,True,False,False,0.0,0.1667,0.0,0.0,0.0,0.0
+2026-09-21,210744286,Chemin Vert - Saint-Maur,45.0,288,True,False,False,0.0,0.0104,0.0,0.0,0.0,0.0
+2026-09-21,210745258,Jean-Pierre Timbaud - Vaucouleurs,47.0,288,True,False,False,0.0,0.0,0.0278,0.0,0.0,0.0
+2026-09-21,210746090,Grand Prieuré - Crussol,49.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,210747224,Pirogues de Bercy - Libourne,49.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,210748575,Gravelle - Route du Bac,51.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,210749865,Port-Royal - Hôpital du Val-de-Grâce,18.0,288,True,False,False,0.0,0.0,0.2153,0.0,0.0,0.0
+2026-09-21,210751059,Hôpital - Campo-Formio,11.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,210754072,Place Jean Delay,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213674686,Place Jeanne d'Arc,36.0,288,True,False,False,0.0,0.0104,0.0,0.0,0.0,0.0
+2026-09-21,213675430,Boutroux - Porte de Vitry,49.0,288,True,False,False,0.0,0.0,0.0729,0.0,0.0,0.0
+2026-09-21,213676294,Chevaleret - Tolbiac,35.0,288,True,False,False,0.0,0.0,0.0972,0.0,0.0,0.0
+2026-09-21,213676825,Pitié-Salpêtrière,51.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213677219,Brillat-Savarin - Küss,21.0,288,True,False,False,0.0,0.0,0.0139,0.0,0.0,0.0
+2026-09-21,213679512,Sibelle - Alésia,37.0,288,True,False,False,0.0,0.0833,0.0,0.0,0.0,0.0
+2026-09-21,213680246,Didot - Mariniers,35.0,288,True,False,False,0.0,0.1458,0.0,0.0,0.0,0.0
+2026-09-21,213680553,Adolphe Pinard - Victor Hugo,52.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,213680917,Abbé Carton - Plantes,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213681356,David Weill - Parc Montsouris,22.0,288,True,False,False,0.0,0.059,0.0,0.0,0.0,0.0
+2026-09-21,213682190,Place Jacques et Thérèse Tréfouël,43.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,213682736,Morillons - Dantzig,52.0,288,True,False,False,0.0,0.2708,0.0,0.0,0.0,0.0
+2026-09-21,213683101,Lecourbe - Jean Maridor,19.0,288,True,False,False,0.0,0.0,0.3681,0.0,0.0,0.0
+2026-09-21,213683992,Cauchy - Cévennes,51.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213684314,Fédération - Suffren,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213684750,Grenelle - Violet,35.0,288,True,False,False,0.0,0.0,0.1285,0.0,0.0,0.0
+2026-09-21,213685090,Cevennes - Bergers,29.0,288,True,False,False,0.0,0.0,0.1007,0.0,0.0,0.0
+2026-09-21,213685514,Place Robert Guillemard,24.0,288,True,False,False,0.0,0.0,0.1979,0.0,0.0,0.0
+2026-09-21,213685863,Parc Suzanne Lenglen,52.0,288,True,False,False,0.0,0.1424,0.0,0.0,0.0,0.0
+2026-09-21,213686196,Lauriston - Copernic,19.0,288,True,False,False,0.0,0.1042,0.0382,0.0,0.0,0.0
+2026-09-21,213686471,Eylau - Trocadéro,24.0,288,True,False,False,0.0,0.2917,0.0069,0.0,0.0,0.0
+2026-09-21,213686749,Place de la Porte de Passy,36.0,288,True,False,False,0.0,0.1319,0.0,0.0,0.0,0.0
+2026-09-21,213687475,Traktir - Foch,22.0,288,True,False,False,0.0,0.0312,0.0972,0.0,0.0,0.0
+2026-09-21,213688169,Benjamin Godard - Victor Hugo,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213688462,Sablons - Georges Mandel,38.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213688824,Faustin Hélie - Desbordes-Valmore,33.0,288,True,False,False,0.0,0.0833,0.0,0.0,0.0,0.0
+2026-09-21,213689228,Raffet - Montmorency,42.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,213689815,Porte d'Asnières,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213690256,Place du Maréchal Juin - Péreire,46.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213690847,Reims - Raymond Pitet,37.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213691137,Carnot - Général Lanrezac,30.0,288,True,False,False,0.0,0.0903,0.0,0.0,0.0,0.0
+2026-09-21,213691848,Place Madeleine Daniélou,42.0,288,True,False,False,0.0,0.0,0.0139,0.0,0.0,0.0
+2026-09-21,213692227,Square Louise Michel,36.0,288,True,False,False,0.0,0.0521,0.0,0.0,0.0,0.0
+2026-09-21,213692714,Lepic - Armée d'Orient,24.0,288,True,False,False,0.0,0.2257,0.0,0.0,0.0,0.0
+2026-09-21,213693126,Véron - Lepic,23.0,288,True,False,False,0.0,0.1597,0.0,0.0,0.0,0.0
+2026-09-21,213693511,Quai de la Seine,24.0,288,True,False,False,0.0,0.0556,0.0278,0.0,0.0,0.0
+2026-09-21,213694069,Flandre - Alphonse Karr,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213694482,Botzaris - Parc des Buttes Chaumont,20.0,288,True,False,False,0.0,0.3681,0.0,0.0,0.0,0.0
+2026-09-21,213695073,Hôpital Robert Debré,32.0,288,True,False,False,0.0,0.1528,0.0,0.0,0.0,0.0
+2026-09-21,213699079,Macdonald - Césaria Evora,67.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213699913,Place de l'Édit de Nantes,30.0,288,True,False,False,0.0,0.0,0.0069,0.0,0.0,0.0
+2026-09-21,213700358,Villiers de l'Isle Adam - Pyrénées,20.0,288,True,False,False,0.0,0.2153,0.0,0.0,0.0,0.0
+2026-09-21,213702608,Boyer - Ménilmontant,19.0,288,True,False,False,0.0,0.2951,0.0,0.0,0.0,0.0
+2026-09-21,213706622,Vitruve - Davout,23.0,288,True,False,False,0.0,0.0868,0.0,0.0,0.0,0.0
+2026-09-21,213848056,Parvis Corentin Celton,55.0,288,True,False,False,0.0,0.0,0.0625,0.0,0.0,0.0
+2026-09-21,213868408,Gare Routière de Saint Cloud,31.0,288,True,False,False,0.0,0.0,0.0868,0.0,0.0,0.0
+2026-09-21,213875650,Henri Ste-Claire Déville - Paul Héroult,24.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213894629,Square Denise Buisson,45.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213922790,Champeaux - Gallieni,50.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213936755,Edouard Vaillant - Galliéni,49.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213945171,Noisy le Sec - Jean-Baptiste Clément,22.0,288,True,False,False,0.0,0.2431,0.0,0.0,0.0,0.0
+2026-09-21,213952930,Proudhon - Président Wilson,30.0,288,True,False,False,0.0,0.0,0.0625,0.0,0.0,0.0
+2026-09-21,213957917,Wilson - Métallurgie,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,213987795,Wilson - Landy,40.0,288,True,False,False,0.0,0.0,0.0729,0.0,0.0,0.0
+2026-09-21,213992316,Square du Théâtre du Garde-Chasse,50.0,288,True,False,False,0.0,0.3125,0.0,0.0,0.0,0.0
+2026-09-21,213999554,Jean Jaurès - Ouvrières Pivéreuses,22.0,288,True,False,False,0.0,0.0,0.0312,0.0,0.0,0.0
+2026-09-21,214019379,Quai de l'Aisne - Général Leclerc,27.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,214097180,Paul Doumer - Stalingrad,24.0,288,True,False,False,0.0,0.0,0.059,0.0,0.0,0.0
+2026-09-21,214102967,Gare de Laplace,43.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,214109662,Hôtel de ville de Fontenay-sous-Bois,20.0,288,True,False,False,0.0,0.375,0.0,0.0,0.0,0.0
+2026-09-21,214114469,Gare de Nogent-le-Perreux,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,214119792,Gare RER - Malleret-Joinville,20.0,288,True,False,False,0.0,0.0,0.2396,0.0,0.0,0.0
+2026-09-21,214122655,Lagny - Joffre,31.0,288,True,False,False,0.0,0.0,0.0556,0.0,0.0,0.0
+2026-09-21,214134714,Gare Arcueil - Cachan,26.0,288,True,False,False,0.0,0.0,0.0,0.2708,0.0,0.0
+2026-09-21,214139374,Gare RER de Gentilly,30.0,288,True,False,False,0.0,0.1181,0.0,0.0,0.0,0.0
+2026-09-21,214146056,Vignerons - Minimes,29.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,214298601,Boyer-Barret - Raymond Losserand,23.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,215495494,Batignolles - Place de Clichy,47.0,288,True,False,False,0.0,0.1667,0.0,0.0,0.0,0.0
+2026-09-21,216039437,Lamennais - Washington,40.0,288,True,False,False,0.0,0.0451,0.2118,0.0,0.0,0.0
+2026-09-21,216473073,Tardieu - Chappe,18.0,288,True,False,False,0.0,0.2882,0.0,0.0,0.0,0.0
+2026-09-21,217235307,Place Carnot,25.0,288,True,False,False,0.0,0.0208,0.0,0.0,0.0,0.0
+2026-09-21,217572769,Anatole France - Jean Lolive,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,220502135,Porte Dorée,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,220504949,Grande Truanderie - Saint-Denis,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,220726050,Mézières - Rennes ,55.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,221032834,Metz - Faubourg Saint-Denis,48.0,288,True,False,False,0.0,0.0,0.0521,0.0,0.0,0.0
+2026-09-21,221036108,Charonne - Bureau,47.0,288,True,False,False,0.0,0.0035,0.0,0.0,0.0,0.0
+2026-09-21,221038698,Mahatma Gandhi,26.0,288,True,False,False,0.0,0.0,0.1806,0.0,0.0,0.0
+2026-09-21,221041655,Porte de Clignancourt.,56.0,288,True,False,False,0.0,0.0417,0.0,0.0,0.0,0.0
+2026-09-21,221047138,Pierre et Marie Curie - Julien Grimau,18.0,288,True,False,False,0.0,0.191,0.0,0.0,0.0,0.0
+2026-09-21,221094844,Place Alphonse Deville,23.0,288,True,False,False,1.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,224256188,Beaujon - Wagram,29.0,288,True,False,False,0.0,0.0,0.0278,0.0,0.0,0.0
+2026-09-21,224589573,Michelet - Assas,18.0,288,True,False,False,0.0,0.0312,0.1285,0.0,0.0,0.0
+2026-09-21,224598098,Dunois - Clisson,51.0,288,True,False,False,0.0,0.0035,0.0,0.0,0.0,0.0
+2026-09-21,230873471,Octave Feuillet - Albéric Magnard,21.0,288,True,False,False,0.0,0.125,0.0,0.0,0.0,0.0
+2026-09-21,230877798,Chartres - La Charbonnière,34.0,288,True,False,False,0.0,0.2257,0.0,0.0,0.0,0.0
+2026-09-21,230952057,Place Marcel Cachin,32.0,288,True,False,False,0.0,0.0,0.2222,0.0,0.0,0.0
+2026-09-21,235197110,Place de la Gare,46.0,288,True,False,False,0.0,0.0,0.316,0.0,0.0,0.0
+2026-09-21,235241110,Gare Rer de Fontenay sous Bois,61.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,235513935,Carducci - Place Hannah Arendt,27.0,288,True,False,False,0.0,0.1424,0.0,0.0,0.0,0.0
+2026-09-21,235599121,Général De Gaulle - Alouette,26.0,288,True,False,False,0.0,0.0208,0.0139,0.0,0.0,0.0
+2026-09-21,237624030,Mathurins - Auber,36.0,288,True,False,False,0.0,0.0,0.0868,0.0,0.0,0.0
+2026-09-21,244400797,Jean Lolive - Parc Stalingrad,22.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,244498842,Bois de Vincennes - Gare,50.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,245187072,Louis Lumière - Porte de Bagnolet,20.0,288,True,False,False,0.0,0.2882,0.0,0.0,0.0,0.0
+2026-09-21,251039991,Cassini - Denfert-Rochereau,25.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,252339799,Edouard Vaillant - Paul-Adolphe Souriau,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,253357936,Félix Faure - Lourmel,58.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,254224239,Place Adolphe Cherioux - Vaugirard,63.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,255207155,Lassus - Delouvain,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,255322397,Auguste Blanqui - Corvisart,26.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,256124192,Belleville - Pyrénées,42.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,256403519,Place Pigalle,21.0,288,True,False,False,0.0,0.3785,0.0,0.0,0.0,0.0
+2026-09-21,256561528,Eugène Oudiné - Dessous Des Berges,44.0,288,True,False,False,0.0,0.0,0.0417,0.0,0.0,0.0
+2026-09-21,259977414,Palais des Sports,22.0,288,True,False,False,0.0,0.0,0.3403,0.0,0.0,0.0
+2026-09-21,261987383,Place Du Général De Gaulle,26.0,288,True,False,False,0.0,0.0382,0.0,0.0,0.0,0.0
+2026-09-21,262607058,Charles de Gaulle - Plateau de Vanves,33.0,288,True,False,False,0.0,0.3299,0.0,0.0,0.0,0.0
+2026-09-21,263610599,Centenaire - Sorins,45.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,263732151,Gambetta - Michelet,33.0,288,True,False,False,0.0,0.0,0.1806,0.0,0.0,0.0
+2026-09-21,265201872,Bourdon - Pont Morland,52.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,265266148,Pierre Brossolette - Adolphe Pinard,24.0,288,True,False,False,0.0,0.0104,0.0139,0.0,0.0,0.0
+2026-09-21,265464297,Schoelcher - Raspail,50.0,288,True,False,False,0.0,0.0208,0.0,0.0,0.0,0.0
+2026-09-21,266052390,Melun - Jean Jaurès,28.0,288,True,False,False,0.0,0.0694,0.0,0.0,0.0,0.0
+2026-09-21,266422568,Place Edmond Michelet,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,266963426,Beaumarchais - Saint-Gilles,51.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,267976590,François Truffaut - Saint Emilion,66.0,288,True,False,False,0.0,0.0,0.1076,0.0,0.0,0.0
+2026-09-21,268976295,Butte aux Cailles - Esperance,36.0,288,True,False,False,0.0,0.0938,0.0,0.4097,0.0,0.0
+2026-09-21,269953055,Quai Marcel Boyer - Victor Hugo,29.0,288,True,False,False,0.0,0.0,0.2257,0.0,0.0,0.0
+2026-09-21,271540743,Gare de Clichy-Levallois ,26.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,275968458,Place du Président Salvador Allende,60.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,276989966,Oratoire - Rivoli,18.0,288,True,False,False,0.0,0.0,0.1667,0.0,0.0,0.0
+2026-09-21,284708999,Santé - Arago,38.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,284711589,Beaumarchais - Pas de la Mule,18.0,288,True,False,False,0.0,0.0382,0.0,0.0,0.0,0.0
+2026-09-21,284787594,Place d'Italie - Vincent Auriol,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,285001735,Vivienne - Montmartre,54.0,288,True,False,False,0.0,0.0,0.0347,0.0,0.0,0.0
+2026-09-21,285454061,Square de la rue Pixérécourt,45.0,288,True,False,False,0.0,0.3021,0.0,0.0,0.0,0.0
+2026-09-21,287096529,Paul Klee - Place Augusta Holmes,43.0,288,True,False,False,0.0,0.1632,0.0,0.0,0.0,0.0
+2026-09-21,292871105,Botzaris - Crimée,21.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,301841024,Molière - République,30.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,302725495,Gare SNCF Vanves-Malakoff,51.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,303102719,Brancion - Lefebvre,11.0,288,True,False,False,0.0,0.2292,0.0,0.0,0.0,0.0
+2026-09-21,303452950,Hôtel de Ville de Fontenay-aux-Roses,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,308082350,Malakoff - Place de la Porte Maillot,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,311153993,Les Halles - Saint-Eustache,32.0,288,True,False,False,0.0,0.0,0.0278,0.0,0.0,0.0
+2026-09-21,311552027,Temple - Charlot,45.0,288,True,False,False,0.0,0.25,0.0,0.0,0.0,0.0
+2026-09-21,312165511,Faubourg Du Temple - Republique,38.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,312870435,Dunkerque - Trudaine,16.0,288,True,False,False,0.0,0.2396,0.0,0.0,0.0,0.0
+2026-09-21,314829539,Charles de Gaulle - Beauté,49.0,288,True,False,False,0.0,0.0347,0.0,0.0,0.0,0.0
+2026-09-21,315022587,Malesherbes - Place de la Madeleine,67.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.7014
+2026-09-21,323468705,Saint-Honoré - Musée du Louvre,32.0,288,True,False,False,0.0,0.0694,0.0,0.0,0.0,0.0
+2026-09-21,323486248,Montgallet - Reuilly,15.0,288,True,False,False,0.0,0.066,0.0,0.0,0.0,0.0
+2026-09-21,323616530,Quai de l'Horloge - Pont Neuf,17.0,288,True,False,False,1.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,331153695,Square Emile - Chautemps,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,335780498,Greneta - Sebastopol,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,336511521,Place de Rhin et Danube,30.0,288,True,False,False,0.0,0.1667,0.0,0.0,0.0,0.0
+2026-09-21,338762459,Edouard Poisson - Victor Hugo,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,338824395,Bourse du Travail,17.0,288,True,False,False,0.0,0.0,0.1424,0.0,0.0,0.0
+2026-09-21,339797666,Charles de Gaulle - Jean Lolive,26.0,288,True,False,False,0.0,0.1215,0.0,0.0,0.0,0.0
+2026-09-21,341388492,Place des Ternes.,46.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,349750111,Bleue - Trévise,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,353462947,Richard Wallace - Place du 8 Mai 1945,30.0,288,True,False,False,0.0,0.0,0.1215,0.0,0.0,0.0
+2026-09-21,357409723,Place Violet,45.0,288,True,False,False,0.0,0.0,0.1597,0.0,0.0,0.0
+2026-09-21,357491025,Place Centrale,22.0,288,True,False,False,0.0,0.0556,0.0,0.0,0.0,0.0
+2026-09-21,362178041,Place Jules Ferry,28.0,288,True,False,False,0.0,0.0,0.1458,0.0,0.0,0.0
+2026-09-21,362869414,Hôpital Bégin,26.0,288,True,False,False,0.0,0.0,0.0104,0.0,0.0,0.0
+2026-09-21,363735875,Pont De Charenton,18.0,288,True,False,False,0.0,0.0,0.3889,0.0,0.0,0.0
+2026-09-21,365181481,Guy Môquet - Saint-Ouen,53.0,288,True,False,False,0.0,0.0799,0.0,0.0,0.0,0.0
+2026-09-21,365886904,Berthier - Place Stuart Merril,37.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,368766689,Westermeyer - Paul Vaillant-Couturier,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,1.0
+2026-09-21,369011098,Paris - Laitières,22.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,369644630,Gare de l'Est - Faubourg-Saint-Martin,32.0,288,True,False,False,0.0,0.0833,0.0,0.0,0.0,0.0
+2026-09-21,378626842,Anatole France - Louise Michel,50.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,378648513,Jean Colly - Tolbiac,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,379063990,Place du 14 Juillet,22.0,288,True,False,False,0.0,0.0451,0.0,0.0,0.0,0.0
+2026-09-21,380891087,Place de la Bastille - Bourdon,35.0,288,True,False,False,0.0,0.0,0.0104,0.0,0.0,0.0
+2026-09-21,384370499,Place Charles Vallin,26.0,288,True,False,False,0.0,0.0521,0.1354,0.0,0.0,0.0
+2026-09-21,389788858,Emeriau - Beaugrenelle,74.0,288,True,False,False,0.0,0.0,0.0104,0.0,0.0,0.0
+2026-09-21,390075668,Stade Georges Carpentier,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,390212609,Théophile Gautier - François Millet,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,391845823,Candale - Mehul,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,392576677,Senard - Charles Blum,24.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,394404659,Gare Saint-Lazare - Cour du Havre,45.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,404947652,Place Fernand Forest,33.0,288,True,False,False,0.0,0.0,0.0764,0.0,0.0,0.0
+2026-09-21,406806401,Guichet - Jean Jaurès,28.0,288,True,False,False,0.0,0.0799,0.0556,0.0,0.0,0.0
+2026-09-21,409364001,Ivry - Simone Weil,18.0,288,True,False,False,0.0,0.2465,0.0,0.0,0.0,0.0
+2026-09-21,417088374,Place Mongolfier,39.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,417623119,Mairie de quartier du Plateau - Mont-Valérien,20.0,288,True,False,False,0.0,0.0,0.2222,0.0,0.0,0.0
+2026-09-21,419381597,Professeur René Leriche - Général Leclerc ,50.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,419991048,Pont de Levallois-bécon ,50.0,288,True,False,False,0.0,0.0347,0.0,0.0,0.0,0.0
+2026-09-21,422639331,Mairie de Neuilly sur Seine,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,426772876,Ledru-Rollin - Charonne,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,427678168,Lucien Sampaix - Récollets,46.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,428088564,La Jarry - Place Diderot,25.0,288,True,False,False,0.0,0.1424,0.0,0.0,0.0,0.0
+2026-09-21,434419150,Bara - Henri Farman,58.0,288,True,False,False,0.0,0.0,0.1597,0.0,0.0,0.0
+2026-09-21,437741660,Saint-Denis - Rivoli,43.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.441
+2026-09-21,439750210,Italie - Jardin Joan Miro,26.0,288,True,False,False,0.0,0.0625,0.0,0.0,0.0,0.0
+2026-09-21,442739463,Place de la République - Temple,18.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,443153677,Perle - Vieille du Temple,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,443198808,Gaston Tessier - Rosa Parks RER,37.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,443402852,Place de Lévis,48.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,443654970,Française - Etienne Marcel,37.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,452341449,Choisy - Tolbiac,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,452347778,Daumesnil - Picpus,21.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0312
+2026-09-21,452920451,Mont Valérien - Michel Salles,24.0,288,True,False,False,0.0,0.1042,0.0,0.0,0.0,0.0
+2026-09-21,452936197,Bois de Vincennes.,60.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,453172172,Porte d'Italie,13.0,288,True,False,False,0.0,0.0764,0.0,0.0,0.0,0.0
+2026-09-21,457713145,Gare de Nanterre Ville,43.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,457813746,Henri Barbusse - Stalingrad,16.0,288,True,False,False,0.0,0.0,0.0069,0.0,0.0,0.0
+2026-09-21,457834134,André Maurois - Joseph et Marie Hackin,29.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,458086607,Président Wilson - Baudin,28.0,288,True,False,False,0.0,0.0,0.0312,0.0,0.0,0.0
+2026-09-21,460558111,Square du Bataclan,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,462875227,Jules Guesde - Alsace,25.0,288,True,False,False,0.0,0.0,0.0417,0.0,0.0,0.0
+2026-09-21,463297497,Marcelle - Thalie,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,468354634,Quai de l'Oise - Aisne,30.0,288,True,False,False,0.0,0.1319,0.0,0.0,0.0,0.0
+2026-09-21,468843711,Saint Georges - d'Aumale,23.0,288,True,False,False,0.0,0.066,0.0,0.0,0.0,0.0
+2026-09-21,470807791,Jardin d'Acclimatation,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,471094898,Olivier de Serres - Leriche,25.0,288,True,False,False,0.0,0.0556,0.0,0.0,0.0,0.0
+2026-09-21,473204291,Victor Hugo - Magasins Généraux,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,475524450,Chanzy - Sud-Est,25.0,288,True,False,False,0.0,0.0,0.1146,0.0,0.0,0.0
+2026-09-21,476053320,Ecole Militaire - Place Joffre,26.0,288,True,False,False,0.0,0.0,0.1354,0.0,0.0,0.0
+2026-09-21,476155906,Saint-Antoine Sévigné,26.0,288,True,False,False,0.0,0.0,0.0139,0.0,0.0,0.3194
+2026-09-21,476183970,Gare de l'Est - Place du 11 Novembre 1918,40.0,288,True,False,False,0.0,0.0347,0.0,0.0,0.0,0.0
+2026-09-21,478250062,Rivoli - Musée du Louvre,24.0,288,True,False,False,0.0,0.0,0.1632,0.0,0.0,0.0
+2026-09-21,478385490,Charles Gide - Fort de Bicêtre ,30.0,288,True,False,False,0.0,0.1146,0.0,0.0,0.0,0.0
+2026-09-21,478593396,Jean Moulin - Paul Doumer,20.0,288,True,False,False,0.0,0.0799,0.0,0.0,0.0,0.0
+2026-09-21,478732841,Sebastopol - Rambuteau,16.0,288,True,False,False,0.0,0.0,0.0382,0.0,0.0,0.5
+2026-09-21,478952881,Boulets - Voltaire,38.0,288,True,False,False,0.0,0.0556,0.0,0.0,0.0,0.0
+2026-09-21,484387018,Place du Maquis du Vercors,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,484423835,Président Wilson - Jean Jaures,27.0,288,True,False,False,0.0,0.0208,0.0451,0.0,0.0,0.0
+2026-09-21,484889494,Hôtel de Ville de Levallois Perret,26.0,288,True,False,False,0.0,0.0,0.0278,0.0,0.0,0.0
+2026-09-21,486750405,Ney - Porte de Montmartre,24.0,288,True,False,False,0.0,0.0382,0.0,0.0,0.0,0.0
+2026-09-21,486833337,Bachaumont - Montmartre,33.0,288,True,False,False,0.0,0.0,0.0278,0.0,0.0,0.0
+2026-09-21,488872892,Emile Zola - Fondary,42.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,488889101,Bessières - Porte de Clichy,33.0,288,True,False,False,0.0,0.0,0.0,0.1528,0.0,0.0
+2026-09-21,488980540,Saint-Mandé - Fabre d'Eglantine,34.0,288,True,False,False,0.0,0.0556,0.0,0.0,0.0,0.0
+2026-09-21,491687415,Delizy - Louis Nadot,22.0,288,True,False,False,0.0,0.2222,0.0,0.0,0.0,0.0
+2026-09-21,491932748,Porte des Lilas - Faidherbe,39.0,288,True,False,False,0.0,0.2951,0.0,0.0,0.0,0.0
+2026-09-21,494183852,La Motte-Picquet - La Tour Maubourg,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,499303158,Jules Guesde - Pont du Port à l'Anglais,30.0,288,True,False,False,0.0,0.0,0.3889,0.0,0.0,0.0
+2026-09-21,501318622,Montreuil - Gonnet,24.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,501862076,Place Nelson Mandela,22.0,288,True,False,False,0.0,0.2049,0.0,0.0,0.0,0.0
+2026-09-21,506455295,Général Martial Valin - Pont du Garigliano,16.0,288,True,False,False,0.0,0.1493,0.0,0.0,0.0,0.0
+2026-09-21,507934805,Ney - Porte de Clignancourt,25.0,288,True,False,False,0.0,0.0382,0.0,0.0,0.0,0.0
+2026-09-21,508042092,Pyramide - Ecole du Breuil ,34.0,288,True,False,False,0.0,0.2361,0.0,0.0,0.0,0.0
+2026-09-21,516709288,Charonne - Robert et Sonia Delaunay,20.0,288,True,False,False,0.0,0.25,0.0035,0.0,0.0,0.0
+2026-09-21,518825709,Jean Oestreicher - Porte de Champerret,21.0,288,True,False,False,0.0,0.0868,0.125,0.0,0.0,0.0
+2026-09-21,521393180,Porte Pouchet-Bessières,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,523900881,Cité de la Musique,60.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,532054446,Richard Lenoir - Republique,58.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,535500589,Hôpital Européen Georges Pompidou,78.0,288,True,False,False,0.0,0.0,0.0486,0.0,0.0,0.0
+2026-09-21,544249939,Raspail - Chomel,49.0,288,True,False,False,0.0,0.0868,0.1632,0.0,0.0,0.0
+2026-09-21,549480297,Halle Freyssinet - Parvis Alan Turing,37.0,288,True,False,False,0.0,0.0,0.1389,0.0,0.0,0.0
+2026-09-21,549876068,Villette - Belleville,48.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,559507144,Place Jean Ferrat,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,559595472,Suffren - Champ de Mars,23.0,288,True,False,False,0.0,0.0,0.1424,0.0,0.0,0.0
+2026-09-21,559980654,George V - Christophe Colomb,24.0,288,True,False,False,0.0,0.2326,0.0,0.0,0.0,0.0
+2026-09-21,567884788,Vincent Auriol - Louise Weiss,22.0,288,True,False,False,0.0,0.0,0.2049,0.0,0.0,0.0
+2026-09-21,568135465,Paul Vaillant Couturier - Chaptal,39.0,288,True,False,False,0.0,0.0139,0.1389,0.0,0.0,0.0
+2026-09-21,569583918,Choiseul - Quatre Septembre,44.0,288,True,False,False,0.0,0.0035,0.1528,0.0,0.0,0.0
+2026-09-21,570185777,Gare de Courbevoie,35.0,288,True,False,False,0.0,0.0,0.1042,0.0,0.0,0.0
+2026-09-21,571923059,Bordier - Félix Faure,48.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,572566600,Edouard Tremblay - Julian Grimaux,30.0,288,True,False,False,0.0,0.1285,0.0,0.0,0.0,0.0
+2026-09-21,576188379,Vigée-Lebrun - Anselme Payen,24.0,288,True,False,False,0.0,0.184,0.0,0.0,0.0,0.0
+2026-09-21,581480367,Fabre d'Eglantine - Place de la Nation,68.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,583178525,Boissière - Etienne Dolet,21.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,583539396,Anatole France - President Roosevelt,29.0,288,True,False,False,0.0,0.0,0.0035,0.0,0.0,0.0
+2026-09-21,586539770,Marne - Germain Dardan,22.0,288,True,False,False,0.0,0.0347,0.0,0.0,0.0,0.0
+2026-09-21,586649404,Conservatoire de Musique,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,588452142,Hoche - Jean Lolive,24.0,288,True,False,False,0.0,0.0799,0.0,0.0,0.0,0.0
+2026-09-21,593238093,Victoire - Chaussée d'Antin,24.0,288,True,False,False,0.0,0.0729,0.0625,0.0,0.0,0.0
+2026-09-21,596813170,Cimetière de Fontenay-sous-Bois,15.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,596872103,Lucie Aubrac - Fort,30.0,288,True,False,False,0.0,0.0938,0.0,0.0,0.0,0.0
+2026-09-21,597245295,Concorde - Stalingrad,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,599135701,Ramponeau - Belleville,44.0,288,True,False,False,0.0,0.0382,0.0,0.0,0.0,0.0
+2026-09-21,606669250,Square Georges Melies,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,611152693,Tertres - Fontaine,28.0,288,True,False,False,0.0,0.2014,0.0,0.0,0.0,0.0
+2026-09-21,613737748,Raspail - Manufacture des Oeillets,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,620403530,Gabriel Péri - Danielle Casanova,20.0,288,True,False,False,0.0,0.0,0.2743,0.0,0.0,0.0
+2026-09-21,620676855,Camille Groult - Guy Môquet,22.0,288,True,False,False,0.0,0.0,0.2014,0.0,0.0,0.0
+2026-09-21,624177860,Route de la Muette - Porte de Neuilly,50.0,288,True,False,False,0.0,0.0,0.0035,0.0,0.0,0.0
+2026-09-21,631773910,Carnot - Pâquerettes,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,632007124,Lucie Aubrac - Franklin,36.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,632086890,Place de l'Eglise - Vitry-sur-Seine,28.0,288,True,False,False,0.0,0.0,0.0035,0.0,0.0,0.0
+2026-09-21,640629438,Aristide Briand - Gare de Bagneux,22.0,288,True,False,False,0.0,0.0,0.0382,0.0,0.0,0.0
+2026-09-21,647826568,Saint-Germain - Thenard,31.0,288,True,False,False,0.0,0.0,0.2083,0.0,0.0,0.0
+2026-09-21,648227675,Auguste Cain - Jean Moulin,40.0,288,True,False,False,0.0,0.1528,0.0,0.0,0.0,0.0
+2026-09-21,649888071,Place Paul Eluard,19.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,650091839,Victor Hugo - Ecoles,25.0,288,True,False,False,0.0,0.0,0.3125,0.0,0.0,0.0
+2026-09-21,652120758,Place de la Porte de Châtillon,59.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,652192395,Route de Sèvres - Porte de Bagatelle,66.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653035822,Jeûneurs - Mulhouse,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653040243,Archives - Pastourelle,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653042442,Place aux Étoiles,40.0,288,True,False,False,0.0,0.0,0.1771,0.0,0.0,0.0
+2026-09-21,653042678,Quai de Béthune - Pont de la Tournelle,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653046029,Place Valhubert,51.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653046369,Carrefour Pleyel,68.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.3715
+2026-09-21,653048150,Jussieu - Guy de la Brosse,40.0,288,True,False,False,0.0,0.1285,0.1458,0.0,0.0,0.0
+2026-09-21,653050378,Square René Viviani - Montebello,47.0,288,True,False,False,0.0,0.0,0.0382,0.0,0.0,0.0
+2026-09-21,653055049,Place du Cornillon - Stade de France,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653055097,Milton - Manuel,22.0,288,True,False,False,0.0,0.1285,0.0,0.0,0.0,0.0
+2026-09-21,653059015,Bellefond - Maubeuge,31.0,288,True,False,False,0.0,0.0799,0.0,0.0,0.0,0.0
+2026-09-21,653059879,Gare RER de Saint-Denis,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653062048,Gare du Nord - Place de Valenciennes,44.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653063170,Place de la Porte de Paris,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653065577,Gare du Nord - Demarquay,30.0,288,True,False,False,0.0,0.0972,0.0,0.0,0.0,0.0
+2026-09-21,653066427,Franciade - Gabriel Péri,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653069115,Claude Vellefaux - Sambre et Meuse,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653072212,Place du 8 mai 1945.,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653073004,Tremblay - Lac des Minimes,48.0,288,True,False,False,0.0,0.0,0.066,0.0,0.0,0.3993
+2026-09-21,653076373,Bois de Vincennes - Porte Jaune,35.0,288,True,False,False,0.0,0.0521,0.0,0.0,0.0,0.0
+2026-09-21,653076393,Place du Front Populaire - George Sand,65.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653079135,Mazagran - Pierre de Coubertin,15.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653079520,Averroès - Aimé Césaire,19.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653080383,Bruneseau - Quai d'Ivry,46.0,288,True,False,False,0.0,0.0,0.0486,0.0,0.0,0.0
+2026-09-21,653080986,Toffier Decaux - Cartier Bresson,18.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653081846,Jourdan - Monticelli,30.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,653083263,Lucien Bossoutrot - Général Martial Vallin,39.0,288,True,False,False,0.0,0.2639,0.0694,0.0,0.0,0.0
+2026-09-21,653083675,Maréchal Joffre - Verdun,20.0,288,True,False,False,0.0,0.1562,0.0,0.0,0.0,0.0
+2026-09-21,653085678,Berthier - Porte de Clichy,24.0,288,True,False,False,0.0,0.0,0.0069,0.0,0.0,0.0
+2026-09-21,653086121,Louis Xavier de Ricard - Ancienne Mairie,34.0,288,True,False,False,0.0,0.0938,0.0,0.0,0.0,0.0
+2026-09-21,653087180,Clichy - Douai,32.0,288,True,False,False,0.0,0.184,0.0,0.0,0.0,0.0
+2026-09-21,653087914,Marne - Charles de Gaulle,27.0,288,True,False,False,0.0,0.0243,0.2778,0.0,0.0,0.0
+2026-09-21,653089942,Poissonniers - Championnet,28.0,288,True,False,False,0.0,0.0035,0.0,0.0,0.0,0.0
+2026-09-21,653091206,Porte de Clignancourt - Ney,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653091677,Place de l'Europe - Alfortville,24.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653092274,Porte de Pantin.,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653094517,Cesaria Evora - Rosa Parks,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653097126,Place Paul Delouvrier,42.0,288,True,False,False,0.0,0.125,0.0,0.0,0.0,0.0
+2026-09-21,653099465,Amédée Huon - Fort d'Ivry,31.0,288,True,False,False,0.0,0.0104,0.0,0.0,0.0,0.0
+2026-09-21,653102462,Lampes,43.0,288,True,False,False,0.0,0.0,0.1562,0.0,0.0,0.0
+2026-09-21,653104215,Sorbier - Gasnier-Guy,34.0,288,True,False,False,0.0,0.1528,0.0,0.0,0.0,0.0
+2026-09-21,653106960,Gare RER - Maurice Grandcoing,37.0,288,True,False,False,0.0,0.0,0.0521,0.0,0.0,0.0
+2026-09-21,653107480,Paganini - Davout,22.0,288,True,False,False,0.0,0.0729,0.0,0.0,0.0,0.0
+2026-09-21,653110492,Danielle Casanova - Ledru-Rollin,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653110858,Silly - Louis Blériot,23.0,288,True,False,False,0.0,0.0,0.0625,0.0,0.0,0.0
+2026-09-21,653114003,Dôme - République,25.0,288,True,False,False,0.0,0.0,0.1389,0.0,0.0,0.0
+2026-09-21,653114443,Place Eustache Deschamps,20.0,288,True,False,False,0.0,0.0,0.1354,0.0,0.0,0.0
+2026-09-21,653118283,Ancienne Mairie - André Morizet,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653121023,Fief - République,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653122771,Marc Sangnier - Division Leclerc,24.0,288,True,False,False,0.0,0.0,0.1806,0.0,0.0,0.0
+2026-09-21,653123610,Pierre Lefaucheux - Traversière,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653125838,Cours de l'Ile Seguin - Parc Billancourt,29.0,288,True,False,False,0.0,0.0,0.0139,0.0,0.0,0.0
+2026-09-21,653126035,Vanne - Saussaies,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653127524,Gustave Eiffel - Parc des Impressionnistes,30.0,288,True,False,False,0.0,0.0347,0.1146,0.0,0.0,0.0
+2026-09-21,653129412,Vladimir Ilitch Lénine - Andrée Chedid,31.0,288,True,False,False,0.0,0.0556,0.0,0.0,0.0,0.0
+2026-09-21,653129435,Neuilly - Petit,16.0,288,True,False,False,0.0,0.0,0.0243,0.0,0.0,0.0
+2026-09-21,653131074,Vanne - Général de Gaulle,25.0,288,True,False,False,0.0,0.0347,0.0,0.0,0.0,0.0
+2026-09-21,653132534,Louis Lejeune - Barbès,25.0,288,True,False,False,0.0,0.0868,0.0,0.0,0.0,0.0
+2026-09-21,653134004,Louis Rolland - République,26.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,653135378,Amaury Duval - Gabriel Péri,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653135400,Paul Vaillant-Couturier - Gare RER,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653137566,Mairie de Clamart,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653137567,Place Saint-Just,22.0,288,True,False,False,0.0,0.0,0.1076,0.0,0.0,0.0
+2026-09-21,653139063,Pont de Suresnes,51.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653139897,Lebrun - Colonel Fabien ,27.0,288,True,False,False,0.0,0.125,0.0,0.0,0.0,0.0
+2026-09-21,653140345,Édouard Vaillant - Place Jean Jaurès,24.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,653141822,Île de la Jatte,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653143563,Henri Ravera - Gabriel Péri,30.0,288,True,False,False,0.0,0.0764,0.0903,0.0,0.0,0.0
+2026-09-21,653144717,Camille Risch - Paul Armangot,25.0,288,True,False,False,0.0,0.0972,0.0,0.0,0.0,0.0
+2026-09-21,653146273,Chausson - Gabriel Péri,22.0,288,True,False,False,0.0,0.0347,0.0938,0.0,0.0,0.0
+2026-09-21,653147618,Lucien Lanternier - Le Luth,27.0,288,True,False,False,0.0,0.0799,0.0,0.0,0.0,0.0
+2026-09-21,653150828,Joffre - Aigle,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653153519,Gare des Vallées,20.0,288,True,False,False,0.0,0.0,0.1979,0.0,0.0,0.0
+2026-09-21,653155159,Marx Dormoy - Château Sainte-Barbe,22.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653156540,Place de la Division Leclerc,34.0,288,True,False,False,0.0,0.0035,0.0,0.0,0.0,0.0
+2026-09-21,653159330,Quai de Sèvres - Manufacture Nationale,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653165196,Les Blagis,27.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653166892,Gare de Robinson,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653175838,Gare de Chaville Rive Gauche,18.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653184632,Edith Cavell - Volta,33.0,288,True,False,False,0.0,0.066,0.0,0.0,0.0,0.0
+2026-09-21,653187900,Adolphe Lalyre - Armand Silvestre,40.0,288,True,False,False,0.0,0.0451,0.0,0.0,0.0,0.0
+2026-09-21,653190196,LCL Campus - Place Oscar Niemeyer,37.0,288,True,False,False,0.0,0.0833,0.0,0.0,0.0,0.0
+2026-09-21,653190279,Jean-Baptiste Charcot - Sainte-Geneviève,21.0,288,True,False,False,0.0,0.0,0.1389,0.0,0.0,0.0
+2026-09-21,653193536,Maxime Gorki - Paul Vaillant-Couturier,20.0,288,True,False,False,0.0,0.3576,0.0,0.0,0.0,0.0
+2026-09-21,653194214,Hôtel de Ville de Rueil-Malmaison,20.0,288,True,False,False,0.0,0.0556,0.0,0.0,0.0,0.0
+2026-09-21,653197206,Marcel Pourtout - Édouard Manet ,24.0,288,True,False,False,0.0,0.0868,0.0,0.0,0.0,0.0
+2026-09-21,653197324,Théâtre des Amandiers - Palais des sports,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653200142,Hôtel de Ville de Nanterre,38.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653203262,Parc Pierre Lagravère,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653205656,Gare de la Garenne-Colombes,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653208733,Romainville - Vaillant-Couturier,38.0,288,True,False,False,0.0,0.1215,0.0,0.0,0.0,0.0
+2026-09-21,653217067,Jules Guesde - Laennec,19.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,653222953,Mairie de Rosny-sous-Bois,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,813544903,Amelot - Saint-Sébastien,30.0,288,True,False,False,0.0,0.0,0.0312,0.0,0.0,0.0
+2026-09-21,818302209,Mairie de Montreuil,52.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,828134511,Porte de Vanves,32.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,875078767,Lieutenant Chauré - Etienne Marey,20.0,288,True,False,False,0.0,0.2431,0.0,0.0,0.0,0.0
+2026-09-21,907054879,Liberté - Vert-de-Maisons,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,911767210,Alexandre Parodi - Quai de Valmy,24.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,912377361,Diderot - Reuilly,44.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,933214552,Guynemer - Séverine,26.0,288,True,False,False,0.0,0.0,0.2396,0.0,0.0,0.0
+2026-09-21,963786819,Jonquoy - Didot,30.0,288,True,False,False,0.0,0.1458,0.0,0.0,0.0,0.0
+2026-09-21,976762284,Place du Général de Gaulle,28.0,288,True,False,False,0.0,0.0,0.0278,0.0,0.0,0.0
+2026-09-21,977206088,Hôtel de Ville d'Argenteuil,,288,True,False,False,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,977409509,Vincennes - Douy-Delcupe,38.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,979059925,Bridaine - Lamandé,29.0,288,True,False,False,0.0,0.1562,0.0,0.0,0.0,0.0
+2026-09-21,985086307,Gare d'Asnières sur Seine,24.0,288,True,False,False,0.0,0.0,0.0938,0.0,0.0,0.0
+2026-09-21,985828965,Place de Verdun,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,989753852,Square des Epinettes,40.0,288,True,False,False,0.0,0.1701,0.0,0.0,0.0,0.0
+2026-09-21,991351798,Aubervilliers - Curial,23.0,288,True,False,False,0.0,0.0729,0.0,0.0,0.0,0.0
+2026-09-21,1002059045,Pont Neuf - Rivoli,27.0,288,True,False,False,0.0,0.0,0.0972,0.0,0.0,0.0
+2026-09-21,1002738770,Lavandieres Sainte Opportune - Rivoli,27.0,288,True,False,False,0.0,0.1771,0.0,0.0,0.0,0.0
+2026-09-21,1015246367,Champs-Elysees - Bassano,25.0,288,True,False,False,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,1020700136,Neuve Saint-Pierre - Beautreillis,20.0,288,True,False,False,0.0,0.0,0.0799,0.0,0.0,0.0
+2026-09-21,1021176825,Billancourt - Général Leclerc ,22.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1021553839,Faubourg Poissonniere - Delta,36.0,288,True,False,False,0.0,0.1701,0.0,0.0,0.0,0.0
+2026-09-21,1023083417,Station Paris Basketball - Ney - Charles Hermite,20.0,288,True,False,False,0.0,0.1354,0.0,0.0,0.0,0.0
+2026-09-21,1025995767,Hôtel de Ville de Champigny sur Marne,21.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1034242363,Place François Mitterand,34.0,288,True,False,False,0.0,0.066,0.0,0.0,0.0,0.0
+2026-09-21,1034247348,Place des Larris,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1035816937,Poissonniers - Nord,28.0,288,True,False,False,0.0,0.1007,0.0,0.0,0.0,0.0
+2026-09-21,1036199130,Les Juilliottes,21.0,288,True,False,False,0.0,0.0,0.1944,0.0,0.0,0.0
+2026-09-21,1055541632,Place Tony de Graaff,42.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1055553396,Mornay - Sully,15.0,288,True,False,False,0.0,0.0,0.1146,0.0,0.0,0.0
+2026-09-21,1056715831,Marché Saint-Germain,21.0,288,True,False,False,0.0,0.2674,0.125,0.0,0.0,0.0
+2026-09-21,1056947780,Faubourg Poissonnière - Dunkerque,30.0,288,True,False,False,0.0,0.2396,0.0,0.0,0.0,0.0
+2026-09-21,1056959071,Place Mireille Havet,43.0,288,True,False,False,0.0,0.0035,0.0,0.0,0.0,0.0
+2026-09-21,1056965116,Lac Daumesnil - Saint-Maurice,50.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1056972307,Pyramide - Parc Floral,50.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1056979685,Bastille - Quai de la Rapée,27.0,288,True,False,False,0.0,0.0208,0.0243,0.0,0.0,0.0
+2026-09-21,1056986761,Terroirs de France - Lheureux,55.0,288,True,False,False,0.0,0.0,0.0347,0.0,0.0,0.0
+2026-09-21,1056995858,Gergovie - Vercingétorix,29.0,288,True,False,False,0.0,0.1458,0.0,0.0,0.0,0.0
+2026-09-21,1057003116,Charles Lecocq - Lecourbe,48.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,1057009034,Henri Chevreau - Couronnes,27.0,288,True,False,False,0.0,0.2708,0.0,0.0,0.0,0.0
+2026-09-21,1057039016,Fessart - Château,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057045129,Cimetière de Boulogne-Billancourt,40.0,288,True,False,False,0.0,0.0,0.1146,0.0,0.0,0.0
+2026-09-21,1057061349,Chancé Milly - Cimetière Communal Sud,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057072168,Jules Guesdes - Général de Gaulle,24.0,288,True,False,False,0.0,0.2396,0.0,0.0,0.0,0.0
+2026-09-21,1057081237,Cimetière d'Issy-les-Moulineaux,24.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057091571,Esplanade du Foncet - Camille Desmoulins,28.0,288,True,False,False,0.0,0.0,0.0972,0.0,0.0,0.0
+2026-09-21,1057149522,Rond-point du Dr Albert Schweitzer,22.0,288,True,False,False,0.0,0.0,0.1146,0.0,0.0,0.0
+2026-09-21,1057179405,Résistance - Hoche,29.0,288,True,False,False,0.0,0.059,0.0,0.0,0.0,0.0
+2026-09-21,1057184567,Paul Signac - Aristide Briand,35.0,288,True,False,False,0.0,0.0972,0.0,0.0,0.0,0.0
+2026-09-21,1057203651,Stade de France - Francis de Pressensé,44.0,288,True,False,False,0.0,0.1042,0.0278,0.0,0.0,0.0
+2026-09-21,1057207064,Saint-Denis - Université,24.0,288,True,False,False,0.0,0.0521,0.0,0.0,0.0,0.0
+2026-09-21,1057210479,Jules Guesdes - Carnot,16.0,288,True,False,False,0.0,0.0,0.3021,0.0,0.0,0.0
+2026-09-21,1057221951,Balzac - Olympes de Gouges,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057228658,Youri Gagarine - Karl Marx,22.0,288,True,False,False,0.0,0.2431,0.0,0.0,0.0,0.0
+2026-09-21,1057234527,Gare d'Argenteuil,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057290902,Cours de Vincennes - Soult,45.0,288,True,False,False,0.0,0.0069,0.0,0.0,0.0,0.0
+2026-09-21,1057296253,Regnault - Patay,63.0,288,True,False,False,0.0,0.0,0.0,0.0521,0.0,0.0
+2026-09-21,1057302263,Place Nationale - Château-des-Rentiers,18.0,288,True,False,False,0.0,0.0556,0.0,0.0,0.0,0.0
+2026-09-21,1057319366,Quai de la Gare - Pont de Bercy,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057324291,Cimetière de Montrouge,58.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057335613,Quai du Président Roosevelt - Pont Aval,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057354004,Chemin de Bretagne,29.0,288,True,False,False,0.0,0.0,0.0556,0.0,0.0,0.0
+2026-09-21,1057360420,Place Aimé Césaire,27.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057366813,Hôtel de Ville de Sèvres,32.0,288,True,False,False,0.0,0.0,0.0243,0.0,0.0,0.0
+2026-09-21,1057373549,Gare RER les Grésillons,22.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057378487,Fort d'Aubervilliers,22.0,288,True,False,False,0.0,0.0,0.0347,0.0,0.0,0.0
+2026-09-21,1057387136,8 Mai 1945 - 10 Juillet 1940,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057392676,Rouget de Lisle,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057399900,Placette Grégoire Collas,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057405802,Place Nelson Mandela,30.0,288,True,False,False,0.0,0.0486,0.0,0.0,0.0,0.0
+2026-09-21,1057730786,Halles - Bourdonnais,20.0,288,True,False,False,0.0,0.0,0.0729,0.0,0.0,0.0
+2026-09-21,1057737444,Place Ginette Hamelin,51.0,288,True,False,False,0.0,0.0417,0.0,0.0,0.0,0.0
+2026-09-21,1057748427,Rottembourg - Général Michel Bizot,43.0,288,True,False,False,0.0,0.0,0.191,0.0,0.0,0.0
+2026-09-21,1057753858,Place Charles Michels,37.0,288,True,False,False,0.0,0.0,0.1215,0.0,0.0,0.0
+2026-09-21,1057758764,Cadix - Hameau,37.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1057765913,Hôpital Necker,40.0,288,True,False,False,0.0,0.0,0.0139,0.0,0.0,0.0
+2026-09-21,1057769632,Porte de Saint-Ouen - Henri Huchard,26.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,1057774603,Marie-Georges Picquart - Pereire,32.0,288,True,False,False,0.0,0.1493,0.0,0.0,0.0,0.0
+2026-09-21,1062162270,Théâtre de La Garenne,20.0,288,True,False,False,0.0,0.0,0.2292,0.0,0.0,0.0
+2026-09-21,1062179194,18 juin 1940 - Buzenval,25.0,288,True,False,False,0.0,0.1111,0.0,0.0,0.0,0.0
+2026-09-21,1062192012,Gare Rosny-Bois-Perrier,35.0,288,True,False,False,0.0,0.0,0.0938,0.0,0.0,0.0
+2026-09-21,1062206433,Chemin Vert - Fraternité,20.0,288,True,False,False,0.0,0.1111,0.0,0.0,0.0,0.0
+2026-09-21,1062223873,Ancien Canal - Hélène Brion,23.0,288,True,False,False,0.0,0.0833,0.0486,0.0,0.0,0.0
+2026-09-21,1062238429,Place de l'Europe - Quai de Bercy,17.0,288,True,False,False,0.0,0.0278,0.0312,0.0,0.0,0.0
+2026-09-21,1062245074,Roger Salengro - Général de Gaulle,27.0,288,True,False,False,0.0,0.0,0.066,0.0,0.0,0.0
+2026-09-21,1062250686,11 Novembre 1918 - 8 Mai 1945,36.0,288,True,False,False,0.0,0.0,1.0,0.0,1.0,0.0
+2026-09-21,1062256852,Maxime Gorki - Louis Aragon,20.0,288,True,False,False,0.0,0.0556,0.0,0.0,0.0,0.0
+2026-09-21,1062671597,Cossonnerie - Sébastopol,24.0,288,True,False,False,0.0,0.191,0.0035,0.0,0.0,0.0
+2026-09-21,1062704564,Bourg l'Abbé - Saint-Martin,61.0,288,True,False,False,0.0,0.0,0.0035,0.0,0.0,0.0
+2026-09-21,1062742831,Place Joffre - Frédéric le Play,38.0,288,True,False,False,0.0,0.0,0.0799,0.0,0.0,0.0
+2026-09-21,1062783107,Buffon - Jardin des Plantes,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1062797394,Place de la Madeleine - Royale,43.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0278
+2026-09-21,1062802530,Niger - Soult,24.0,288,True,False,False,0.0,0.0174,0.0,0.0,0.0,0.0
+2026-09-21,1062807847,BNF - Bibliothèque Nationale de France,42.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.4722
+2026-09-21,1062812659,Auguste Blanqui - Glacière,60.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1062827573,Bézout - Général Leclerc,30.0,288,True,False,False,0.0,0.0174,0.0,0.0,0.0,0.0
+2026-09-21,1062833975,Froidevaux - Boulard,35.0,288,True,False,False,0.0,0.1493,0.0,0.0,0.0,0.0
+2026-09-21,1062874070,Jourdan - Cité Universitaire,39.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,1062882947,Bargue -  Dutot,21.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1062982815,Gare de Bellevue,20.0,288,True,False,False,0.0,0.2361,0.0,0.0,0.0,0.0
+2026-09-21,1063000561,Gardenat-Lapostol - Velettes,20.0,288,True,False,False,0.0,0.1319,0.0,0.0,0.0,0.0
+2026-09-21,1063012692,Kléber - National,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1063017616,Mairie de La Garenne Colombes,22.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1063027377,Grande Rue - Europe,25.0,288,True,False,False,0.0,0.0,0.3056,0.0,0.0,0.0
+2026-09-21,1063035479,Parvis Robert Schuman - Roger Salengro,24.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1063044618,Bas - Gabriel Péri,30.0,288,True,False,False,0.0,0.0,0.0799,0.0,0.0,0.0
+2026-09-21,1063053136,Square Victor Basch,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1063061372,Résistance - Parmentier,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1063404053,République - Danton,20.0,288,True,False,False,0.0,0.1424,0.0,0.0,0.0,0.0
+2026-09-21,1063410400,Alouettes - Maréchal de Lattre de Tassigny,22.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1063421211,Barbès - Monique Maunoury,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1063429705,Eugène Varlin - Place de la Paix,23.0,288,True,False,False,0.0,0.1771,0.0,0.0,0.0,0.0
+2026-09-21,1063971944,Saint-Michel - Luxembourg,29.0,288,True,False,False,0.0,0.0799,0.059,0.0,0.0,0.0
+2026-09-21,1063984816,Gare du Nord - La Chapelle,18.0,288,True,False,False,0.0,0.1424,0.0,0.0,0.0,0.0
+2026-09-21,1064000778,Gare d'Austerlitz - Pont Charles de Gaulle,75.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1074060095,Lally-Tollendal - Armand Carrel,28.0,288,True,False,False,0.0,0.1354,0.0,0.0,0.0,0.0
+2026-09-21,1074095810,Maurice Payret-Dortail,22.0,288,True,False,False,0.0,0.0625,0.0,0.0,0.0,0.0
+2026-09-21,1074142878,Hôtel de Ville de Chaville,20.0,288,True,False,False,0.0,0.4514,0.0,0.0,0.0,0.0
+2026-09-21,1074187051,Hôtel de Ville d'Asnières sur Seine,30.0,288,True,False,False,0.0,0.0,0.3681,0.0,0.0,0.0
+2026-09-21,1074204954,Quai Jules Guesde - Saint-Simon,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1074333296,Hippodrome Paris-Vincennes,42.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1074339090,Stade Pershing,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1074347188,Champs de Manoeuvre - Cartoucherie,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1074352578,Parc Floral du Bel Air,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1074390359,Youri Gagarine - Commune de Paris,33.0,288,True,False,False,0.0,0.0,0.0556,0.0,0.0,0.0
+2026-09-21,1074398925,République - Louis Loucheur,37.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1074410417,Verdun - Carnot,28.0,288,True,False,False,0.0,0.0,0.0278,0.0,0.0,0.0
+2026-09-21,1074428106,André Theuriet - Blagis,30.0,288,True,False,False,0.0,0.1042,0.0,0.0,0.0,0.0
+2026-09-21,1109534105,Demi-Lune - Aristide Briand,20.0,288,True,False,False,0.0,0.1597,0.0,0.0,0.0,0.0
+2026-09-21,1190800638,Ranelagh - Maison de la Radio,22.0,288,True,False,False,0.0,0.0,0.0938,0.0,0.0,0.0
+2026-09-21,1227051850,Glacière - Soeur Catherine Marie,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1237624420,Maurice d'Ocagne - General Maudhuy,30.0,288,True,False,False,0.0,0.0556,0.0,0.0,0.0,0.0
+2026-09-21,1314450240,Gare du Stade,20.0,288,True,False,False,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,1333959209,Génie - Mozart,19.0,288,True,False,False,0.0,0.4132,0.0,0.0,0.0,0.0
+2026-09-21,1396728955,Bastille - Beaumarchais,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1558958733,Arche - Léonard de Vinci,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1559700274,Square Gilbert Thomain,20.0,288,True,False,False,0.0,0.0868,0.0,0.0,0.0,0.0
+2026-09-21,1599896463,Magenta - Chabrol,24.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1599921040,Jessaint - Marx Dormoy,30.0,288,True,False,False,0.0,0.1285,0.0,0.0,0.0,0.0
+2026-09-21,1599931563,République - Auguste Perret,30.0,288,True,False,False,0.0,0.0729,0.0,0.0,0.0,0.0
+2026-09-21,1765749389,Karl Marx,16.0,288,True,False,False,0.0,0.2812,0.0,0.0,0.0,0.0
+2026-09-21,1805255023,Sèvres - Général Leclerc,30.0,288,True,False,False,0.0,0.0,0.0938,0.0,0.0,0.0
+2026-09-21,1805401614,Sèvres-Gallieni,27.0,288,True,False,False,0.0,0.0,0.1042,0.0,0.0,0.0
+2026-09-21,1810975577,Guy Môquet - Parvis Georges Marchais,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,1968156458,Ecole Vétérinaire,36.0,288,True,False,False,0.0,0.0,0.4097,0.0,0.0,0.0
+2026-09-21,1981490798,Belfort - Victor Hugo,24.0,288,True,False,False,0.0,0.0,0.1319,0.0,0.0,0.0
+2026-09-21,1988517250,Stalingrad - Henri Luisette,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,2002864789,Strasbourg - Saint-Denis,16.0,288,True,False,False,0.0,0.0,0.1319,0.0,0.0,0.0
+2026-09-21,2254322638,Verdun - Pierre et Marie Curie,26.0,288,True,False,False,0.0,0.1146,0.0,0.0,0.0,0.0
+2026-09-21,2514995690,Chabanais - Petits Champs,30.0,288,True,False,False,0.0,0.0,0.1007,0.0,0.0,0.0
+2026-09-21,2515049357,Erasme - Ulm,24.0,288,True,False,False,0.0,0.0972,0.1354,0.0,0.0,0.0
+2026-09-21,2515085147,Italie - Tolbiac,21.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,2515351285,Saint Lambert - Blomet,27.0,288,True,False,False,0.0,0.0139,0.0729,0.0,0.0,0.0
+2026-09-21,2515403527,Saint-Cloud - Hippodrome,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,2515618216,Hippodrome de Longchamp,30.0,288,True,False,False,0.0,0.2708,0.0,0.0,0.0,0.0
+2026-09-21,2515636592,Mstislav Rostropovitch - Berthier,18.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,2515658032,Clignancourt - Sofia,19.0,288,True,False,False,0.0,0.1076,0.0104,0.0,0.0,0.0
+2026-09-21,2515672078,Petit - Georges Thill,23.0,288,True,False,False,0.0,0.0174,0.0,0.0,0.0,0.0
+2026-09-21,2515686699,Borrégo - Gambetta,25.0,288,True,False,False,0.0,0.3021,0.0,0.0,0.0,0.0
+2026-09-21,2515701705,Mûriers - Père Lachaise,20.0,288,True,False,False,0.0,0.2465,0.0,0.0,0.0,0.0
+2026-09-21,2515738489,Eugène Reisz - Davout,20.0,288,True,False,False,0.0,0.1076,0.0,0.0,0.0,0.0
+2026-09-21,2515756572,Verdier - Jean Jaurès,33.0,288,True,False,False,0.0,0.0035,0.0,0.0,0.0,0.0
+2026-09-21,2515774908,Val-Fleury,23.0,288,True,False,False,0.0,0.2014,0.0,0.0,0.0,0.0
+2026-09-21,2515802454,Charles de Gaulle - Sablonville,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,2515829865,Basilique,22.0,288,True,False,False,0.0,0.0,0.0451,0.0,0.0,0.0
+2026-09-21,2515855808,Madeleine Vionnet,34.0,288,True,False,False,0.0,0.0,0.0833,0.0,0.0,0.3681
+2026-09-21,2515885093,Waldeck Rochet - Germaine Tillon,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,2515907297,Pasteur - Gambetta,19.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,2515927759,Stalingrad - Germaine Tailleferre,28.0,288,True,False,False,0.0,0.1146,0.0,0.0,0.0,0.0
+2026-09-21,2515976231,Nanterre - Université,20.0,288,True,False,False,0.0,0.0417,0.0868,0.0,0.0,0.0
+2026-09-21,2515995748,Pesaro - Préfecture,22.0,288,True,False,False,0.0,0.2118,0.0729,0.0,0.0,0.0
+2026-09-21,2705290225,Suresnes - Muette à Neuilly,30.0,288,True,False,False,0.0,0.5382,0.0,0.0,0.0,0.0
+2026-09-21,2705338817,Victor Hugo - Gare,22.0,288,True,False,False,0.0,0.0,0.1042,0.0,0.0,0.0
+2026-09-21,2705356759,Jean Jaurès - Paul Lafargue,28.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,2820744873,Pierre Larousse - Raymond Losserand,30.0,288,True,False,False,0.0,0.0868,0.0,0.0,0.0,0.0
+2026-09-21,3906094706,Redoute - Les Courtilles,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,3906153622,Argenteuil - Voltaire,16.0,288,True,False,False,0.0,0.0139,0.2882,0.0,0.0,0.0
+2026-09-21,3906215030,Place Amédée Gordini - Lefebvre,38.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,3906335682,Roger Salengro - Fontainebleau,25.0,288,True,False,False,0.0,0.1354,0.0,0.0,0.0,0.0
+2026-09-21,4329844165,Tristan Tzara -  Tchaïkovski,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,9931940126,Diane Arbus,38.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,10647548670,Nungesser - Santé,22.0,288,True,False,False,0.0,0.0174,0.1597,0.0,0.0,0.0
+2026-09-21,10647608657,Dora Maar - Nadia Guendouz,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,10773448319,Clef des Champs - Albert Dhalenne,28.0,288,True,False,False,0.0,0.0,0.0312,0.0,0.0,0.0
+2026-09-21,11004671601,Capitaine Glarner - Gabriel Péri,27.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,11004720021,Garibaldi - Gabriel Péri,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,11063317380,Sèvres - Maréchal Juin,18.0,288,True,False,False,1.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,11146696292,Victor Hugo - Paul Eluard,32.0,288,True,False,False,0.0,0.0,0.0868,0.0,0.0,0.0
+2026-09-21,11146714746,Blanqui - Docteur Bauer,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,11218473640,Bons Raisins - Voltaire,24.0,288,True,False,False,0.0,0.191,0.0,0.0,0.0,0.0
+2026-09-21,11218807773,Hôtel de Ville de Saint-Ouen,48.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,11266280626,Cartier Bresson - Denis Papin,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,11437651826,Adrien Lesesne - Docteur Bauer,30.0,288,True,False,False,0.0,0.0,0.0521,0.0,0.0,0.0
+2026-09-21,11437706131,Bateliers - Quai de Seine,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,11437761399,Henri Barbusse - Bourguignons,34.0,288,True,False,False,0.0,0.0035,0.0,0.0,0.0,0.0
+2026-09-21,11437961617,Marceau Delorme - Pierre Brossolette,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,11438049493,Hélène et François Missoffe - Emile Borel,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,11438116799,Porte de Clichy - Place des Nations Unies,40.0,288,True,False,False,0.0,0.0,0.0035,0.0,0.0,0.0
+2026-09-21,11438171152,Place Charles de Gaulle,24.0,288,True,False,False,0.0,0.3368,0.0,0.0,0.0,0.0
+2026-09-21,11851012506,Jean Jaurès - Place du Dr Roux,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,11851037297,Sèvres Rive Gauche,33.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,11851103861,Division Leclerc - Kléber,25.0,288,True,False,False,0.0,0.0,0.2118,0.0,0.0,0.0
+2026-09-21,11851327865,Docteur Calmette - Martre,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,11874261013,Place du 17 Octobre,20.0,288,True,False,False,0.0,0.0,0.0417,0.0,0.0,0.0
+2026-09-21,11908488283,Georges Pompidou - Verdun,26.0,288,True,False,False,0.0,0.0,0.1944,0.0,0.0,0.0
+2026-09-21,11908496227,Gardenat Lapostol - Franklin Roosevelt,24.0,288,True,False,False,0.0,0.2396,0.0,0.0,0.0,0.0
+2026-09-21,11908510683,Séminaire de Conflans - Liberté,26.0,288,True,False,False,0.0,0.0243,0.25,0.0,0.0,0.0
+2026-09-21,12196660096,Bichat - Grange aux Belles,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,12225158518,Henri Barbusse - Gabriel Péri,28.0,288,True,False,False,0.0,0.0694,0.0,0.3299,0.0,0.0
+2026-09-21,12225289563,Béranger - Félix Faure,28.0,288,True,False,False,0.0,0.0868,0.0,0.0,0.0,0.0
+2026-09-21,12806084887,Avenir,45.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,12943772652,Place Henri Dunant - Gare RER,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,12948189248,Guy Môquet - Jean Moulin,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,12959947458,Parc des Pierrettes,23.0,288,True,False,False,0.0,0.0451,0.0,0.0,0.0,0.0
+2026-09-21,13341879803,Châteaudun - Place de la Liberté,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,13373712848,Place de la Paix - Abbé Saint-Pierre,24.0,288,True,False,False,0.0,0.0521,0.0,0.0,0.0,0.0
+2026-09-21,13373758036,Roland Garros - Jean Bouin,28.0,288,True,False,False,0.0,0.1562,0.0,0.0,0.0,0.0
+2026-09-21,13373801574,Gare RER,30.0,288,True,False,False,0.0,0.0312,0.0,0.0,0.0,0.0
+2026-09-21,13373848216,Simone Signoret - Paris,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,13568870765,Place des Arts - Jean Mermoz,20.0,288,True,False,False,0.0,0.0521,0.0,0.0,0.0,0.0
+2026-09-21,14623073464,Marcel Monge - Marcel Dassault,46.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,14813797734,Raspail Barbès,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,15066765479,Gare RER - Général de Gaulle,41.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,15187848239,Place Jean Mermoz,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,15189890802,Fontaine du Tertre - Calvaire,24.0,288,True,False,False,0.0,0.1771,0.0,0.0,0.0,0.0
+2026-09-21,15550433574,Martyrs de Châteaubriant - Jean Grandel,38.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,15826185972,Faubourg St-Antoine - Place de la Nation,16.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,16043228469,Perrault - Place du Louvre,28.0,288,True,False,False,0.0,0.0868,0.1562,0.0,0.0,0.0
+2026-09-21,16043242148,Charles de Gaulle - Rue de l'Alma,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,16043282800,Port - Maurice Chevalier,30.0,288,True,False,False,0.0,0.0,0.0556,0.0,0.0,0.0
+2026-09-21,16043316164,Résistance - Romain Rolland,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,16134083337,Maréchal Leclerc de Hauteclocque - Marché Buzenval,30.0,288,True,False,False,0.0,0.2153,0.0,0.0,0.0,0.0
+2026-09-21,16134135570,Stalingrad - Général de Gaulle,26.0,288,True,False,False,0.0,0.0,0.0729,0.0,0.0,0.0
+2026-09-21,16206691682,Général Leclerc - République,30.0,288,True,False,False,0.0,0.0,0.0069,0.0,0.0,0.0
+2026-09-21,16206842336,Moscou - Edouard Vaillant,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,16210188070,Convention - Campus de Bobigny,32.0,288,True,False,False,0.0,0.0,0.2222,0.0,0.0,0.0
+2026-09-21,16379269732,Président Roosevelt - Rouget de Lisle,40.0,288,True,False,False,0.0,0.0,0.2569,0.0,0.0,0.0
+2026-09-21,16529895896,Gare - Aristide Briand,29.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,16529911795,Porte de Versailles,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,16560752067,Bracion - Périphérique,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,16659953198,Verger - Colonel Guichard,29.0,288,True,False,False,0.0,0.0833,0.0,0.0,0.0,0.0
+2026-09-21,16659964929,Arsène Houssaye - Friedland,29.0,288,True,False,False,0.0,0.0521,0.184,0.0,0.0,0.0
+2026-09-21,16816575934,Henri Barbusse - Marcel Cachin,37.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,16898865154,Stéphanie Bouvard - Gambetta,30.0,288,True,False,False,0.0,0.0,0.1493,0.0,0.0,0.0
+2026-09-21,16899499876,Jardin Modèle - Pierre Boudou,18.0,288,True,False,False,0.0,0.0,0.0174,0.0,0.0,0.0
+2026-09-21,16899518505,Mariotte - Batignolles,20.0,288,True,False,False,0.0,0.1632,0.0,0.0,0.0,0.0
+2026-09-21,16930981813,Gabriel Péri - Place de la Libération,18.0,288,True,False,False,0.0,0.0417,0.0035,0.0,0.0,0.0
+2026-09-21,16931052467,Jean Jaurès - Place de la Libération,29.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,16965900639,Payenne - Square George Caïn,24.0,288,True,False,False,0.0,0.0,0.0139,0.0,0.0,0.0
+2026-09-21,17018170219,Pavé des Gardes - Charles Vaillant,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,17047102542,Ménil - Argenteuil,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,17174675707,Saint Pères - Saint Germain,22.0,288,True,False,False,0.0,0.1076,0.1806,0.0,0.0,0.0
+2026-09-21,17174681330,Quai du docteur Dervaux,26.0,288,True,False,False,0.0,0.0243,0.0,0.0,0.0,0.0
+2026-09-21,17225742003,Louis Armand - Bernard Palissy,21.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,17261310217,Saint-Germain - Verdun,30.0,288,True,False,False,0.0,0.125,0.0,0.0,0.0,0.0
+2026-09-21,17278902806,Rouget de L'isle - Watteau,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,17364417797,Decrès - Alésia,30.0,288,True,False,False,0.0,0.1979,0.0,0.0,0.0,0.0
+2026-09-21,17364714962,Marseillaise - Grenade,45.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,17450286381,Stalingrad - Barbara,20.0,288,True,False,False,0.0,0.1181,0.0,0.0,0.0,0.0
+2026-09-21,17451132826,Epi d'Or - Chevilly,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,17451195211,Jean Bouin - Gouverneur Général Eboué,31.0,288,True,False,False,0.0,0.0,0.1181,0.0,0.0,0.0
+2026-09-21,17486274358,Jean Rostand - Paul Vaillant Couturier,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,17486828694,Charlot - Stade Gabriel Voisin,31.0,288,True,False,False,0.0,0.0,0.1215,0.2431,0.0,0.0
+2026-09-21,17486876370,Moulin de Pierre - Abbé Grégoire,20.0,288,True,False,False,0.0,0.1701,0.0,0.0,0.0,0.0
+2026-09-21,17526921983,Mairie de Sceaux,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,17527065847,Chateau,22.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,17527110170,Stade Gaston Bouillant,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,17581042048,Place de la Porte de Champeret,28.0,288,True,False,False,0.0,0.0347,0.0,0.0,0.0,0.0
+2026-09-21,17638171254,Charles de Gaulle - Louis Philippe,28.0,288,True,False,False,0.0,0.0,0.059,0.0,0.0,0.0
+2026-09-21,17721073284,Mairie,20.0,288,True,False,False,0.0,0.2674,0.0,0.0,0.0,0.0
+2026-09-21,17729456391,Londres - Europe,27.0,288,True,False,False,0.0,0.0174,0.0,0.0,0.0,0.0
+2026-09-21,17869323774,Chastenet de Géry - Marcel Paul,25.0,288,True,False,False,0.0,0.1285,0.0,0.0,0.0,0.0104
+2026-09-21,17992442278,Place du 8 Mai 1945,18.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,18012983979,Gallieni - Lycée Charles Petitet,45.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,18013073681,Gare de Sèvres - Ville d'Avray,22.0,288,True,False,False,0.0,0.3889,0.0,0.0,0.0,0.0
+2026-09-21,18013112116,Porte Dauphine,65.0,288,True,False,False,0.0,0.2292,0.0,0.0,0.0,0.0
+2026-09-21,18013122841,Port - Confluence,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,18013132487,Charenton - Wattignies,40.0,288,True,False,False,0.0,0.0035,0.2465,0.0,0.0,0.0
+2026-09-21,18013135935,Nicolaï - Charenton,44.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,18023659071,Place Farhat Hached,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,18099679477,Saint-Jacques - Soufflot,16.0,288,True,False,False,0.0,0.1493,0.1528,0.0,0.0,0.0
+2026-09-21,18175885970,Porte Maillot - Perreire,51.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,18206879942,Rampal - Belleville,20.0,288,True,False,False,0.0,0.1319,0.0174,0.0,0.0,0.0
+2026-09-21,18523627466,Suzanne Masson,37.0,288,True,False,False,0.0,0.0,0.0347,0.0,0.0,0.0
+2026-09-21,18523643190,Gabriel Péri - Jules Ferry,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,18656691283,Yves Farges - Route d'Enghien,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,1.0
+2026-09-21,18660653445,Général Delambre - Prebuard,29.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,18749423187,Jean Jaurès - Gare de Clamart,20.0,288,True,False,False,0.0,0.2639,0.0,0.0,0.0,0.0
+2026-09-21,18795043822,Pailleron - Bouret,27.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,18795078746,Charcot - Benfleet,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,18815024485,Charles de Gaulle - Les Sablons,35.0,288,True,False,False,0.0,0.0,0.0174,0.0,0.0,0.0
+2026-09-21,18880379814,Leroy des Barres - Médiathèque,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,18890164656,Square de Choisy - Eastman,24.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,18908512040,Place De Fontenoy - Saxe,18.0,288,True,False,False,0.0,0.0382,0.0,0.0,0.0,0.0
+2026-09-21,19006016846,Simon Bolivar - Henri Turot,23.0,288,True,False,False,0.0,0.2014,0.0,0.0,0.0,0.0
+2026-09-21,19016646124,Vaugirard - Verrerie,26.0,288,True,False,False,0.0,0.0,0.2049,0.0,0.0,0.0
+2026-09-21,19016711237,Place de la Gare,20.0,288,True,False,False,0.0,0.0208,0.0,0.0,0.0,0.0
+2026-09-21,19016722230,Raymond Poincaré - Allée de la Marche,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19091372977,Mauroy - Cheminots,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19130022694,Iles de Loisirs de Créteil,24.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19130603957,Créteil Village,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19161093714,Evariste Galois,21.0,288,True,False,False,0.0,0.25,0.0,0.0,0.0,0.0
+2026-09-21,19179850066,Centre Hospitalier Intercommunal de Créteil,17.0,288,True,False,False,0.0,0.0,0.1007,0.0,0.0,0.0
+2026-09-21,19179944124,Hôpital Mondor,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19183755581,Choisy - Pointe d'Ivry,24.0,288,True,False,False,0.0,0.1597,0.0,0.0,0.0,0.0
+2026-09-21,19183833298,Albert Kahn - Duhesme,38.0,288,True,False,False,0.0,0.0972,0.0,0.0,0.0,0.0
+2026-09-21,19183922057,Tolbiac - Boussingault,41.0,288,True,False,False,0.0,0.0,0.2049,0.0,0.0,0.0
+2026-09-21,19184128113,Préfecture de Créteil,27.0,288,True,False,False,0.0,0.0,0.625,0.0,0.0,0.0
+2026-09-21,19184196181,Créteil Pointe du Lac,28.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19186120360,Haut du Mont-Mesly,21.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19186208004,Stade de la Habette,16.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19186237098,Hôtel de Ville de Créteil,36.0,288,True,False,False,0.0,0.0,0.0278,0.0,0.0,0.0
+2026-09-21,19309244936,Créteil Pompadour,44.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19331872653,Bleuets - Bordières,19.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.2222
+2026-09-21,19331917084,Lycée Saint Exupéry - Juliette Savar,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19331959862,Bas du Mont-Mesly,27.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19331981332,Sarrazins - Saussure,22.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,1.0
+2026-09-21,19335882998,Michelet - Dr Bauer,32.0,288,True,False,False,0.0,0.0,0.1424,0.0,0.0,0.0
+2026-09-21,19495443023,Paul Bodin - Clichy,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19495456684,Commandant Schloesing - Pétrarque,30.0,288,True,False,False,0.0,0.0243,0.0,0.0,0.0,0.0
+2026-09-21,19495480499,Prague - Théophile Roussel,34.0,288,True,False,False,0.0,0.0104,0.0069,0.0,0.0,0.0
+2026-09-21,19697757271,Conservatoire Marcel Dadi,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19697809404,Matignon - Faubourg Saint-Honoré,35.0,288,True,False,False,0.0,0.059,0.0,0.0,0.0,0.0
+2026-09-21,19697937136,Charles de Gaulle,18.0,288,True,False,False,0.0,0.184,0.059,0.0,0.0,0.0
+2026-09-21,19858721250,Université Paris Est Créteil,43.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19867354582,Verdun - Carnot,29.0,288,True,False,False,0.0,0.5521,0.0,0.0,0.0,0.0
+2026-09-21,19867919889,De Gaulle - Moulin,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19902592897,Les Planètes,21.0,288,True,False,False,0.0,0.0,0.1528,0.0,0.0,0.0
+2026-09-21,19941915381,Gare RER - Canadiens,40.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,19989456853,Sydney Bechet - Jacques Gautier,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20033972555,ZAC des Louvresses,32.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20084863816,Arbalète - Claude Bernard,34.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20235746379,Square Bela Bartok,24.0,288,True,False,False,0.0,0.0,0.0833,0.0,0.0,0.0
+2026-09-21,20278271464,Place des Ardoines,46.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20364431108,Place des Marseillais,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20430917761,Place des Fêtes - Solitaires,29.0,288,True,False,False,0.0,0.0139,0.0,0.0,0.0,0.0
+2026-09-21,20431005501,Quai des Célestins - Henri IV,12.0,288,True,False,False,0.0,0.0451,0.0,0.0,0.0,0.0
+2026-09-21,20431134793,Château -République,17.0,288,True,False,False,0.0,0.0,0.059,0.0,0.0,0.9236
+2026-09-21,20431211740,Gaston Roussel - Commune de Paris,50.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20431248994,Charles Robin - Grange aux Belles,23.0,288,True,False,False,0.0,0.0868,0.0,0.0,0.0,0.0
+2026-09-21,20431381973,Henri Barbusse,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20432939844,Labouret - Saint-Denis,24.0,288,True,False,False,0.0,0.0,0.0278,0.0,0.0,0.0
+2026-09-21,20440192915,Larue - Lycée Pauline Roland,18.0,288,True,False,False,0.2847,0.0868,0.0,0.2847,0.0,0.0
+2026-09-21,20440340655,Larue - Parc des Sports,30.0,288,True,False,False,0.0,0.0,0.0,0.0,0.7396,1.0
+2026-09-21,20454506987,Pavé Grignon - Bretagne,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.316
+2026-09-21,20458224375,Vivienne - Petits Champs,30.0,288,True,False,False,0.0,0.0417,0.0868,0.0,0.0,0.0
+2026-09-21,20458486160,Sérurier - Alphonse Aulard,16.0,288,True,False,False,0.0,0.1806,0.0,0.0,0.0,0.0
+2026-09-21,20490738387,Constant Coquelin - Invalides,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20491171604,Charentonneau - Maison Alfort,28.0,288,True,False,False,0.0,0.0,0.3785,0.0,0.0,0.0
+2026-09-21,20491270292,Barrault - Place de Rungis,49.0,288,True,False,False,0.0,0.0,0.0938,0.0,0.0,0.0
+2026-09-21,20497547989,Place du Général Leclerc,22.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20512737633,Lieutenant Colonel Prudhon - Repos,26.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20523046082,Porte de la Chapelle - Boulevard Ney,52.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20531346153,René Boulanger - Lancry,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20635651817,Réaumur - Montmartre,38.0,288,True,False,False,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,20636368032,Victor Cousin - Cujas,19.0,288,True,False,False,0.0,0.2604,0.2083,0.0,0.0,0.0
+2026-09-21,20636402451,Martignac - Grenelle,25.0,288,True,False,False,0.0,0.0,0.1458,0.0,0.0,0.0
+2026-09-21,20636530104,Dunkerque - Faubourg Saint-Denis,51.0,288,True,False,False,0.0,0.2674,0.0,0.0,0.0,0.0
+2026-09-21,20636558756,Dunkerque - Maubeuge,35.0,288,True,False,False,0.0,0.3542,0.0,0.0,0.0,0.0
+2026-09-21,20636596293,Buisson Saint-Louis - Saint-Maur,30.0,288,True,False,False,0.0,0.0417,0.0,0.0,0.0,0.0
+2026-09-21,20636665336,Tage - Italie,31.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20636765333,Italie - Vistule,24.0,288,True,False,False,0.0,0.1806,0.0,0.0,0.0,0.0
+2026-09-21,20636823021,Tourlaque - Damrémont,16.0,288,True,False,False,0.0,0.3819,0.0,0.0,0.0,0.0
+2026-09-21,20636986665,Cloys - Ordener,38.0,288,True,False,False,0.0,0.1354,0.0,0.0,0.0,0.0
+2026-09-21,20637036701,Jean Jaurès - Bouret,32.0,288,True,False,False,0.0,0.0,0.0243,0.0,0.0,0.0
+2026-09-21,20637420127,Monte Cristo - Bagnolet,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20637435296,Haxo - Darcy,22.0,288,True,False,False,0.0,0.2431,0.0,0.0,0.0,0.0
+2026-09-21,20682017769,Pierre-Simon Girard  - Paris,35.0,288,True,False,False,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,20689981670,Roossevelt - Impasse du Marché,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20689987843,Vincennes - François Debergue,24.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20690183551,Grilles - Honoré d'Estienne d'Orves,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20699530917,Suresnes - Place du Souvenir Français,16.0,288,True,False,False,0.0,0.0,0.184,0.0,0.0,0.0
+2026-09-21,20699589412,Suisses - Colonel de Rochebrune,16.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20702544649,Avenue de la Paix - Chaillon,19.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20702583198,Hôtel de Ville - Adrienne Bolland,33.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20702781391,Louis Dain - Rosiers,35.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20702936749,Adrien Raynal - Verger,30.0,288,True,False,False,0.0,0.0,0.684,0.0,0.684,0.0
+2026-09-21,20702946965,Quai de Seine - Pont de l'île-Saint-Denis,25.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20703011127,Dr Calmette,18.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,1.0
+2026-09-21,20703075041,Gare RER les Saules - Chandigarh,17.0,288,True,False,False,0.0,0.0,0.0833,0.0,0.0,0.0
+2026-09-21,20703108288,Coeur de Ville - Place Nelson Mandela,20.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20706822746,Chemin Des Mèches - Marc Seguin,27.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20824565291,Hippodrome de Paris Vincennes,100.0,288,True,False,True,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,20897904006,Pablo Picasso - Olympiades,36.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,20940948422,Versailles - Résistances,17.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,21372647186,Versailles - Jardy,23.0,288,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+2026-09-21,21372728303,Place Daydé - Ile Seguin,31.0,288,True,False,False,0.0,0.0,0.1007,0.0,0.0,0.0
+2026-09-21,21372781592,Bateliers - Hippodrome,29.0,288,True,False,False,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,21443204298,Coysevox - Lamarck,,288,True,False,False,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,21443226462,Paix - Ulbach,35.0,288,True,False,False,0.0,0.0278,0.0,0.0,0.0,0.0
+2026-09-21,21443239403,Bouvier - Carnot,,288,True,False,False,1.0,0.0,0.0,1.0,0.0,0.0
+2026-09-21,21584689525,Station Tour de France,204.0,288,True,False,True,1.0,0.0,0.0,0.0,0.0,0.0

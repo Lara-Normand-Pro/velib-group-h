@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+data/rebuilt/
+velib_vm1/
+velib_vm2/
+*.pem

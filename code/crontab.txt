@@ -1,0 +1,2 @@
+*/5 * * * * $HOME/collect.sh status
+0 * * * * $HOME/collect.sh info

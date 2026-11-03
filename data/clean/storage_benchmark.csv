@@ -1,0 +1,6 @@
+measure,sqlite,parquet_duckdb
+size on disk (MB),46.8,1.8
+load / write time (s),1.98,written by clean.py
+Q1 median time (ms),62.7,10.2
+Q2 median time (ms),0.4,7.2
+Q3 median time (ms),4.6,35.8

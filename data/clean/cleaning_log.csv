@@ -1,0 +1,12 @@
+step,rule,rows_before,rows_after,rows_flagged
+truncated_captures,drop captures with < 1400 stations,437184,437184,
+exact_duplicates,"drop repeated (station_id, fetched_at), e.g. after merging VMs",437184,437184,
+partial_captures,"keep, flag: counts present, stationCode / bike types missing",437184,437184,1518
+not_in_station_list,flag rows whose station is absent from that day's list,437184,437184,0
+temporary_stations,flag stations listed on < 50% of days (0 stations),437184,437184,0
+event_stations,flag capacity >= 100 (2 stations),437184,437184,576
+capacity_missing,"capacity 0 or absent -> NA, flag",437184,437184,1152
+capacity_conflict,flag bikes + docks > capacity (counts kept as published),437184,437184,3731
+silent,flag last_reported older than 180 min,437184,437184,4603
+frozen,flag in-service rows whose counts stay identical >= 12 h,437184,437184,698
+in_panel,"rows SELECTED for analysis: in same-day list, not temporary, not event station, not frozen",437184,437184,435910
