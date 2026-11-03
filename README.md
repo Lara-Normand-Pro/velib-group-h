@@ -7,8 +7,9 @@ Our question: **how often does a Vélib' station fail its users (no bike to rent
 dock to return) while no other station within 300 m of it can serve them instead, and does
 this differ between Paris and the surrounding communes?**
 
-The document for this checkpoint is `docs/data_quality_and_cleaning.pdf`: the assessment of
-the raw data and the justification of every cleaning step. This README says what is where and
+The document for this checkpoint is `docs/one_page_summary.pdf` (one page): the assessment of
+the raw data and the justification of the main cleaning steps. The detail and the evidence are in
+`docs/data_quality_and_cleaning.pdf`. This README says what is where and
 how to run it.
 
 ---
@@ -39,7 +40,9 @@ GroupH_Velib_0311/
 ├── README.md                                   this file
 ├── DATA_DICTIONARY.md                          what every file and column means
 ├── docs/
-│   ├── data_quality_and_cleaning.pdf           THE document for 03.11 (.md source beside it)
+│   ├── one_page_summary.pdf                    THE document for 03.11, one page (.md source beside it)
+│   ├── data_quality_and_cleaning.pdf           the detail and the evidence (.md source beside it)
+│   ├── vm_comparison.md                        VM1 vs VM2: what each caught (table: data/vm_comparison.csv)
 │   ├── response_to_peer_review.pdf             what we changed after Group I's review (.md beside it)
 │   ├── justification.pdf                       our 29.09 document
 │   ├── proposal.pdf                            our proposal of 16.09
