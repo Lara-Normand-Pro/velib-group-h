@@ -36,7 +36,7 @@ We assessed quality at five levels, from the collection down to the meaning of o
 
 | Problem | Evidence (21.09) | Effect on our question | Decision |
 |---|---|---|---|
-| Incomplete capture | 22:50 UTC: 24 KB instead of 34 KB, `stationCode` and the mechanical / electric split missing for all 1,518 stations | none on availability: bike and dock counts are present | keep, flag `partial_capture`; `collect.sh` v2 checks content |
+| Incomplete capture | 22:50 UTC: 24 KB instead of 34 KB, `stationCode` and the mechanical / electric split missing for all 1,518 stations. Over the full archives (20.09 to 03.11) the same defect appears in 96 captures on VM1 and 98 on VM2 (0.8 %), at all hours, and in the same 5-minute slot on both machines for 96 of them: it comes from the server, not from our collectors (`docs/vm_comparison.md`) | none on availability: bike and dock counts are present | keep, flag `partial_capture`; `collect.sh` v2 checks content |
 | Truncated or unreadable capture | none in 295 checked files | would distort a whole time step | drop any capture with fewer than 1,400 stations |
 | Exact duplicates | none on one machine | will appear when the two VMs are merged | drop repeated `(station_id, fetched_at)` |
 | Stations entering and leaving | one station leaves after 22.09 (Argenteuil, capacity 0); Concorde and Invalides (about 410 docks each) appear on 24.09 and rent on one day only (26.09) | a station that is not really part of the network would count as a failure or as an alternative | match each day with that day's station list; flag `temporary` and `event_station`; exclude both from the panel |
@@ -151,7 +151,8 @@ as many lookups, and measure again on the whole period before choosing.
 ## Still open
 
 - The full-period run of the cleaning (on our archive, not shipped) and the merge of the two
-  machines with `compare_vms.py`.
+  machines. The comparison with `compare_vms.py` is done (`docs/vm_comparison.md`): both machines
+  hold every 5-minute slot of the 43 full days, so the merge adds no capture.
 - The commune boundaries (IGN) and population (INSEE), joined in the analysis step. Population is
   used as context (stations per resident, density), never as a count of affected users.
 - `collect.sh` version 2 checks the content of every file before archiving it; captures archived

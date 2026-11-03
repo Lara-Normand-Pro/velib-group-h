@@ -14,8 +14,8 @@ is what found the main problem below, before it was built into the dataset.
 | 5 | Source of the 300 m | velib-metropole.fr/communes/paris (Paris only; our check shows it does not hold in the suburbs) | README |
 | 6 | Population is not users | Used as context (stations per resident, density), never as people affected | README |
 | 7 | Station count not constant; match each day with that day's list | Each day is joined with its own station list. New flags `temporary` (listed under half the days) and `event_station` (100+ docks: Concorde and Invalides, which presence alone would miss) | `clean.py` step 2 |
-| 8 | Check file content, not only the HTTP code (21.09 22:50) | `collect.sh` v2 checks every file before archiving (ok / partial / bad, bad files quarantined). `validate.py` checks every past file: it finds exactly that capture, kept because the counts are present | `collect.sh`, `validate.py` |
-| 9 | Compare VM1 and VM2 | Comparison script ready (captures per day per machine, slots caught by one only, same values at the same slot). Run on the full archives for the final report | `compare_vms.py` |
+| 8 | Check file content, not only the HTTP code (21.09 22:50) | `collect.sh` v2 checks every file before archiving (ok / partial / bad, bad files quarantined). `validate.py` checks every past file: on the shipped sample it finds exactly that capture, kept because the counts are present. The full archives hold about 100 such captures per machine (0.8 %), see row 9 | `collect.sh`, `validate.py` |
+| 9 | Compare VM1 and VM2 | Run on the full archives (20.09 to 03.11): both machines hold all 288 captures on each of the 43 full days; on 307 shared slots the median share of stations with identical counts is 100 % (minimum 75.8 %). Details in `docs/vm_comparison.md` | `compare_vms.py` |
 | 10 | Both VMs in the same region | Kept in Denmark East and stated as a limit: a regional outage would hit both. It would show as a gap in both logs; none up to the 29.09 snapshot | README, limits |
 
 Two limits of the reading that Group I flagged themselves, and that we keep: we can only

@@ -22,8 +22,9 @@ After the peer review by Group I and our own checks:
   every capture. `lag_min` is renamed `lr_age_min`. `sampling_test.py` shows what the old plan
   would have cost (about five episodes out of six).
 - **The collector checks the content of each file** before archiving it (`collect.sh` v2), and
-  `validate.py` applies the same check to every file archived before. It finds one partial
-  capture, 21.09 at 22:50 UTC.
+  `validate.py` applies the same check to every file archived before. On the shipped sample it
+  finds one partial capture, 21.09 at 22:50 UTC. The full archives hold about 100 per machine
+  (0.8 %), see `docs/vm_comparison.md`.
 - **Cleaning is in place** (`clean.py`): same-day station list, temporary and event stations,
   capacity conflicts, silent and frozen stations, all as flags, plus one `in_panel` column.
 - **Episodes are built on every capture**, separately for renting and returning (`episodes.py`).
@@ -165,7 +166,7 @@ Full assessment in `docs/data_quality_and_cleaning.pdf`.
 | Status captures on full days (20.09 to 29.09 snapshot) | 288 / 288 every day |
 | Requests that did not return 200 | 0 |
 | Gaps longer than 10 minutes | 0 |
-| Captures with incomplete content | 1 (21.09 22:50, counts present) |
+| Captures with incomplete content | 1 in the shipped sample (21.09 22:50, counts present); 96 (VM1) and 98 (VM2) in the full archives, 0.8 % (`docs/vm_comparison.md`) |
 | Rows kept for analysis on 21.09 | 435,910 of 437,184 (99.7%) |
 | Median age of `last_reported` when read | 32 min: an hourly signal, not a delay of the counts |
 
@@ -179,7 +180,7 @@ Full assessment in `docs/data_quality_and_cleaning.pdf`.
   end.
 - Eight weeks in autumn is not a year: no winter, no summer, no big event outside our window.
 - Demonstrations and riots in Paris after the 29.09 snapshot (autumn 2026) will show up in the data collected later: some stations were closed or damaged. The data shipped here (20.09 to 29.09) is not affected. For the final project we will mark the affected days and report the results with and without them.
-- The figures shipped here come from the first machine; `compare_vms.py` compares the two.
+- The figures shipped here come from the first machine; `compare_vms.py` compares the two (result in `docs/vm_comparison.md`: no missed slot on either machine over 43 full days).
   Both machines are in the same Azure region, so a regional outage would hit both.
 
 ## Where the raw data is
